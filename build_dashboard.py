@@ -129,8 +129,8 @@ for i, p in enumerate(big10):
 names = [p["n"] for p in projs]
 date_n = sum(1 for n in names if re.match(r"^\d{4,6}", n))
 cn_n = sum(1 for n in names if re.search(r"[\u4e00-\u9fff]", n) and not re.match(r"^\d{4,6}", n))
-en_n = sum(1 for n in names if re.match(r"^[a-zA-Z0-9_-]+$", n))
-mix_n = N - date_n - cn_n - en_n
+en_n = sum(1 for n in names if re.match(r"^[a-zA-Z][a-zA-Z0-9_-]*$", n))
+mix_n = max(0, N - date_n - cn_n - en_n)
 
 def donut_arcs(parts, colors, total):
     r = 90; cx = 120; cy = 120
