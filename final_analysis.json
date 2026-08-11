@@ -1,0 +1,1283 @@
+{
+ "categories": {
+  "素材归档": {
+   "count": 18,
+   "mb": 745.5700988769531,
+   "files": 1673
+  },
+  "学习教育": {
+   "count": 9,
+   "mb": 15.242718696594238,
+   "files": 63
+  },
+  "AI编程工具": {
+   "count": 23,
+   "mb": 674.2804956436157,
+   "files": 15956
+  },
+  "Web应用": {
+   "count": 9,
+   "mb": 16.823168754577637,
+   "files": 508
+  },
+  "比赛项目": {
+   "count": 10,
+   "mb": 707.2514495849609,
+   "files": 2830
+  },
+  "内容创作": {
+   "count": 6,
+   "mb": 219.32229709625244,
+   "files": 78
+  },
+  "视频音频处理": {
+   "count": 11,
+   "mb": 2633.6013317108154,
+   "files": 749
+  },
+  "股票财经": {
+   "count": 4,
+   "mb": 530.1203031539917,
+   "files": 4724
+  },
+  "效率工具": {
+   "count": 12,
+   "mb": 41.548651695251465,
+   "files": 57
+  },
+  "模型测试": {
+   "count": 13,
+   "mb": 704.7662010192871,
+   "files": 549
+  },
+  "游戏娱乐": {
+   "count": 6,
+   "mb": 3.8292951583862305,
+   "files": 355
+  },
+  "命理玄学": {
+   "count": 9,
+   "mb": 540.3055639266968,
+   "files": 323
+  }
+ },
+ "projects": [
+  {
+   "name": "0613",
+   "cat": "素材归档",
+   "mb": 0.2,
+   "files": 29,
+   "lang": "TypeScript",
+   "mtime": 1767952540.3751454,
+   "readme": true
+  },
+  {
+   "name": "0614钟慧瑜课件",
+   "cat": "学习教育",
+   "mb": 5.0,
+   "files": 3,
+   "lang": "HTML",
+   "mtime": 1749873765.3584852,
+   "readme": false
+  },
+  {
+   "name": "0713",
+   "cat": "素材归档",
+   "mb": 227.9,
+   "files": 16,
+   "lang": "Shell",
+   "mtime": 1752374582.9833622,
+   "readme": true
+  },
+  {
+   "name": "0729房源归档Agent",
+   "cat": "AI编程工具",
+   "mb": 0.3,
+   "files": 4,
+   "lang": "其他",
+   "mtime": 1753761387.123152,
+   "readme": false
+  },
+  {
+   "name": "0804",
+   "cat": "Web应用",
+   "mb": 0.5,
+   "files": 48,
+   "lang": "JavaScript",
+   "mtime": 1754413173.7504108,
+   "readme": true
+  },
+  {
+   "name": "0804_1",
+   "cat": "素材归档",
+   "mb": 0.1,
+   "files": 8,
+   "lang": "Python",
+   "mtime": 1767847360.6531825,
+   "readme": false
+  },
+  {
+   "name": "0806袋鼠大佬",
+   "cat": "素材归档",
+   "mb": 0.0,
+   "files": 6,
+   "lang": "HTML",
+   "mtime": 1754491060.9326851,
+   "readme": false
+  },
+  {
+   "name": "2024AI项目",
+   "cat": "素材归档",
+   "mb": 5.7,
+   "files": 121,
+   "lang": "Python",
+   "mtime": 1753976437.80883,
+   "readme": false
+  },
+  {
+   "name": "202508全球攻防",
+   "cat": "比赛项目",
+   "mb": 661.1,
+   "files": 2128,
+   "lang": "其他",
+   "mtime": 1755398363.1737127,
+   "readme": false
+  },
+  {
+   "name": "202509中石化",
+   "cat": "学习教育",
+   "mb": 0.1,
+   "files": 1,
+   "lang": "Jupyter",
+   "mtime": 1757733080.042256,
+   "readme": false
+  },
+  {
+   "name": "2025AI播客",
+   "cat": "内容创作",
+   "mb": 12.6,
+   "files": 6,
+   "lang": "其他",
+   "mtime": 1765598088.514534,
+   "readme": false
+  },
+  {
+   "name": "24AI攻防生图赛道一",
+   "cat": "比赛项目",
+   "mb": 4.0,
+   "files": 9,
+   "lang": "其他",
+   "mtime": 1730965094.9448035,
+   "readme": false
+  },
+  {
+   "name": "251004",
+   "cat": "素材归档",
+   "mb": 19.7,
+   "files": 4,
+   "lang": "其他",
+   "mtime": 1759581759.209872,
+   "readme": false
+  },
+  {
+   "name": "251011",
+   "cat": "素材归档",
+   "mb": 22.9,
+   "files": 60,
+   "lang": "Python",
+   "mtime": 1760436224.500568,
+   "readme": true
+  },
+  {
+   "name": "251012同声传译",
+   "cat": "视频音频处理",
+   "mb": 116.0,
+   "files": 338,
+   "lang": "Python",
+   "mtime": 1760372500.7074094,
+   "readme": true
+  },
+  {
+   "name": "251017_modelscope_AIgame",
+   "cat": "比赛项目",
+   "mb": 0.5,
+   "files": 55,
+   "lang": "Python",
+   "mtime": 1761093232.5821776,
+   "readme": true
+  },
+  {
+   "name": "251023",
+   "cat": "Web应用",
+   "mb": 2.2,
+   "files": 254,
+   "lang": "TypeScript",
+   "mtime": 1761217861.192005,
+   "readme": true
+  },
+  {
+   "name": "251028",
+   "cat": "Web应用",
+   "mb": 0.1,
+   "files": 20,
+   "lang": "HTML",
+   "mtime": 1761757956.9561894,
+   "readme": false
+  },
+  {
+   "name": "251110",
+   "cat": "Web应用",
+   "mb": 12.4,
+   "files": 85,
+   "lang": "HTML",
+   "mtime": 1762833375.0234857,
+   "readme": true
+  },
+  {
+   "name": "251114魔搭2",
+   "cat": "比赛项目",
+   "mb": 1.2,
+   "files": 29,
+   "lang": "Python",
+   "mtime": 1763612696.7682135,
+   "readme": true
+  },
+  {
+   "name": "251114魔搭AI小说提交版",
+   "cat": "比赛项目",
+   "mb": 0.6,
+   "files": 23,
+   "lang": "Python",
+   "mtime": 1763115008.2269359,
+   "readme": true
+  },
+  {
+   "name": "251114魔搭AI小说黄总优化版",
+   "cat": "比赛项目",
+   "mb": 0.4,
+   "files": 23,
+   "lang": "Python",
+   "mtime": 1763102435.463436,
+   "readme": true
+  },
+  {
+   "name": "251115",
+   "cat": "素材归档",
+   "mb": 207.3,
+   "files": 299,
+   "lang": "Python",
+   "mtime": 1767844789.4769554,
+   "readme": true
+  },
+  {
+   "name": "251120compare_price",
+   "cat": "股票财经",
+   "mb": 399.4,
+   "files": 4713,
+   "lang": "JavaScript",
+   "mtime": 1763710287.5933053,
+   "readme": false
+  },
+  {
+   "name": "251124m2.1文件粉碎机",
+   "cat": "效率工具",
+   "mb": 0.1,
+   "files": 6,
+   "lang": "其他",
+   "mtime": 1766546180.5816143,
+   "readme": false
+  },
+  {
+   "name": "251124窗口半透明工具",
+   "cat": "效率工具",
+   "mb": 0.1,
+   "files": 10,
+   "lang": "Batch",
+   "mtime": 1766552883.5448613,
+   "readme": false
+  },
+  {
+   "name": "251125神速TTS",
+   "cat": "视频音频处理",
+   "mb": 332.1,
+   "files": 129,
+   "lang": "Swift",
+   "mtime": 1764042389.8257227,
+   "readme": true
+  },
+  {
+   "name": "251230M2.1",
+   "cat": "模型测试",
+   "mb": 0.0,
+   "files": 2,
+   "lang": "Python",
+   "mtime": 1767090823.8597612,
+   "readme": false
+  },
+  {
+   "name": "251231skill",
+   "cat": "模型测试",
+   "mb": 0.0,
+   "files": 0,
+   "lang": "其他",
+   "mtime": 0,
+   "readme": false
+  },
+  {
+   "name": "25_200wTokenTest",
+   "cat": "模型测试",
+   "mb": 492.0,
+   "files": 186,
+   "lang": "Python",
+   "mtime": 1758015178.9840243,
+   "readme": false
+  },
+  {
+   "name": "2603amd比赛",
+   "cat": "比赛项目",
+   "mb": 17.9,
+   "files": 353,
+   "lang": "Python",
+   "mtime": 1775698630.325102,
+   "readme": true
+  },
+  {
+   "name": "26黄总比赛",
+   "cat": "比赛项目",
+   "mb": 0.0,
+   "files": 1,
+   "lang": "Markdown",
+   "mtime": 1774795368.5655274,
+   "readme": false
+  },
+  {
+   "name": "AI互动小说",
+   "cat": "游戏娱乐",
+   "mb": 3.8,
+   "files": 343,
+   "lang": "TypeScript",
+   "mtime": 1762778991.2981434,
+   "readme": true
+  },
+  {
+   "name": "AI分镜拆解",
+   "cat": "视频音频处理",
+   "mb": 1682.6,
+   "files": 180,
+   "lang": "Python",
+   "mtime": 1764424457.0541298,
+   "readme": true
+  },
+  {
+   "name": "AI图片0106",
+   "cat": "内容创作",
+   "mb": 4.9,
+   "files": 13,
+   "lang": "其他",
+   "mtime": 1735984647.7636642,
+   "readme": false
+  },
+  {
+   "name": "AI换脸",
+   "cat": "视频音频处理",
+   "mb": 42.5,
+   "files": 45,
+   "lang": "Python",
+   "mtime": 1733589294.2557821,
+   "readme": false
+  },
+  {
+   "name": "AI黑板",
+   "cat": "Web应用",
+   "mb": 0.7,
+   "files": 8,
+   "lang": "JavaScript",
+   "mtime": 1786440760.1110704,
+   "readme": false
+  },
+  {
+   "name": "antigravityCLI",
+   "cat": "AI编程工具",
+   "mb": 0.0,
+   "files": 0,
+   "lang": "其他",
+   "mtime": 0,
+   "readme": false
+  },
+  {
+   "name": "Antigravity反向代理",
+   "cat": "AI编程工具",
+   "mb": 0.0,
+   "files": 1,
+   "lang": "其他",
+   "mtime": 1768386198.360172,
+   "readme": false
+  },
+  {
+   "name": "AutoGLM",
+   "cat": "AI编程工具",
+   "mb": 26.4,
+   "files": 94,
+   "lang": "Python",
+   "mtime": 1766312111.0077593,
+   "readme": true
+  },
+  {
+   "name": "baziK线图",
+   "cat": "命理玄学",
+   "mb": 2.3,
+   "files": 67,
+   "lang": "Python",
+   "mtime": 1768644220.5274453,
+   "readme": false
+  },
+  {
+   "name": "baZitest",
+   "cat": "命理玄学",
+   "mb": 0.0,
+   "files": 0,
+   "lang": "其他",
+   "mtime": 0,
+   "readme": false
+  },
+  {
+   "name": "baZi—test",
+   "cat": "命理玄学",
+   "mb": 1.4,
+   "files": 9,
+   "lang": "Python",
+   "mtime": 1764607801.4117498,
+   "readme": false
+  },
+  {
+   "name": "bilihong-app",
+   "cat": "Web应用",
+   "mb": 0.1,
+   "files": 6,
+   "lang": "HTML",
+   "mtime": 1753946434.7803593,
+   "readme": false
+  },
+  {
+   "name": "claude-code",
+   "cat": "AI编程工具",
+   "mb": 10.5,
+   "files": 10,
+   "lang": "TypeScript",
+   "mtime": 1759227506.3550122,
+   "readme": true
+  },
+  {
+   "name": "claude4.7kiro测试",
+   "cat": "模型测试",
+   "mb": 0.0,
+   "files": 1,
+   "lang": "HTML",
+   "mtime": 1778466338.3599997,
+   "readme": false
+  },
+  {
+   "name": "claude4.7算命",
+   "cat": "命理玄学",
+   "mb": 2.0,
+   "files": 27,
+   "lang": "Python",
+   "mtime": 1779001409.665871,
+   "readme": false
+  },
+  {
+   "name": "claudecode泄露源码",
+   "cat": "AI编程工具",
+   "mb": 84.2,
+   "files": 6017,
+   "lang": "TypeScript",
+   "mtime": 1775225536.720465,
+   "readme": true
+  },
+  {
+   "name": "codex测试",
+   "cat": "模型测试",
+   "mb": 0.1,
+   "files": 14,
+   "lang": "Shell",
+   "mtime": 1773731113.5576956,
+   "readme": false
+  },
+  {
+   "name": "Coding",
+   "cat": "学习教育",
+   "mb": 0.0,
+   "files": 11,
+   "lang": "Python",
+   "mtime": 1746772597.5508764,
+   "readme": false
+  },
+  {
+   "name": "coze工作流导出动画1",
+   "cat": "AI编程工具",
+   "mb": 4.0,
+   "files": 2,
+   "lang": "其他",
+   "mtime": 1745911746.7391667,
+   "readme": false
+  },
+  {
+   "name": "deepseekv4",
+   "cat": "AI编程工具",
+   "mb": 0.0,
+   "files": 1,
+   "lang": "Markdown",
+   "mtime": 1778151356.540841,
+   "readme": false
+  },
+  {
+   "name": "deepseekv4flash正式版",
+   "cat": "AI编程工具",
+   "mb": 0.0,
+   "files": 1,
+   "lang": "HTML",
+   "mtime": 1785490864.2886887,
+   "readme": false
+  },
+  {
+   "name": "DeepSeekv4flash转录视频八字",
+   "cat": "命理玄学",
+   "mb": 55.5,
+   "files": 2,
+   "lang": "Markdown",
+   "mtime": 1785638905.8918371,
+   "readme": false
+  },
+  {
+   "name": "deepseekv4前端后端测试",
+   "cat": "模型测试",
+   "mb": 0.3,
+   "files": 39,
+   "lang": "HTML",
+   "mtime": 1780051385.2592738,
+   "readme": true
+  },
+  {
+   "name": "DeepSeek转录视频炒股",
+   "cat": "股票财经",
+   "mb": 123.0,
+   "files": 2,
+   "lang": "Markdown",
+   "mtime": 1785640066.148033,
+   "readme": false
+  },
+  {
+   "name": "DouBao_MarsCode",
+   "cat": "AI编程工具",
+   "mb": 0.1,
+   "files": 10,
+   "lang": "Python",
+   "mtime": 1736151478.294778,
+   "readme": true
+  },
+  {
+   "name": "DuMate",
+   "cat": "素材归档",
+   "mb": 18.9,
+   "files": 25,
+   "lang": "Python",
+   "mtime": 1774429303.7751338,
+   "readme": false
+  },
+  {
+   "name": "everything-claude-code",
+   "cat": "AI编程工具",
+   "mb": 29.8,
+   "files": 1322,
+   "lang": "JavaScript",
+   "mtime": 1774262568.049334,
+   "readme": true
+  },
+  {
+   "name": "gemini3.5flash小球",
+   "cat": "游戏娱乐",
+   "mb": 0.0,
+   "files": 1,
+   "lang": "HTML",
+   "mtime": 1779353441.0471907,
+   "readme": false
+  },
+  {
+   "name": "gif录屏",
+   "cat": "视频音频处理",
+   "mb": 2.3,
+   "files": 1,
+   "lang": "其他",
+   "mtime": 1710352049.4945047,
+   "readme": false
+  },
+  {
+   "name": "github免费API",
+   "cat": "AI编程工具",
+   "mb": 0.2,
+   "files": 41,
+   "lang": "JavaScript",
+   "mtime": 1760577967.485933,
+   "readme": true
+  },
+  {
+   "name": "Hermes Agent",
+   "cat": "AI编程工具",
+   "mb": 436.0,
+   "files": 7870,
+   "lang": "Python",
+   "mtime": 1778997076.197059,
+   "readme": true
+  },
+  {
+   "name": "homework_app",
+   "cat": "学习教育",
+   "mb": 0.0,
+   "files": 2,
+   "lang": "Python",
+   "mtime": 1778289259.633771,
+   "readme": false
+  },
+  {
+   "name": "Longcat2601",
+   "cat": "模型测试",
+   "mb": 0.1,
+   "files": 4,
+   "lang": "HTML",
+   "mtime": 1768704248.8238263,
+   "readme": false
+  },
+  {
+   "name": "LongCat_test",
+   "cat": "模型测试",
+   "mb": 154.1,
+   "files": 32,
+   "lang": "HTML",
+   "mtime": 1758735420.1923738,
+   "readme": false
+  },
+  {
+   "name": "M2.1springboot",
+   "cat": "Web应用",
+   "mb": 0.0,
+   "files": 23,
+   "lang": "Java",
+   "mtime": 1766571672.631594,
+   "readme": false
+  },
+  {
+   "name": "M2.1test",
+   "cat": "模型测试",
+   "mb": 0.2,
+   "files": 23,
+   "lang": "HTML",
+   "mtime": 1766570932.8600044,
+   "readme": true
+  },
+  {
+   "name": "M2.1八分音符酱复刻",
+   "cat": "游戏娱乐",
+   "mb": 0.0,
+   "files": 3,
+   "lang": "其他",
+   "mtime": 1766645540.3290012,
+   "readme": false
+  },
+  {
+   "name": "M2.1曼陀罗绘画",
+   "cat": "游戏娱乐",
+   "mb": 0.0,
+   "files": 6,
+   "lang": "HTML",
+   "mtime": 1766638061.6541815,
+   "readme": false
+  },
+  {
+   "name": "M2.1赛车游戏",
+   "cat": "游戏娱乐",
+   "mb": 0.0,
+   "files": 2,
+   "lang": "其他",
+   "mtime": 1766579149.406397,
+   "readme": false
+  },
+  {
+   "name": "m3u8下载器",
+   "cat": "效率工具",
+   "mb": 23.9,
+   "files": 4,
+   "lang": "其他",
+   "mtime": 1770890694.1446066,
+   "readme": false
+  },
+  {
+   "name": "mcp-servers",
+   "cat": "AI编程工具",
+   "mb": 0.0,
+   "files": 0,
+   "lang": "其他",
+   "mtime": 0,
+   "readme": false
+  },
+  {
+   "name": "MD2img",
+   "cat": "效率工具",
+   "mb": 17.2,
+   "files": 13,
+   "lang": "HTML",
+   "mtime": 1753298212.8156693,
+   "readme": false
+  },
+  {
+   "name": "mdNoteApp",
+   "cat": "Web应用",
+   "mb": 0.1,
+   "files": 6,
+   "lang": "JavaScript",
+   "mtime": 1753280125.4185321,
+   "readme": false
+  },
+  {
+   "name": "mimo-v2.5-pro",
+   "cat": "模型测试",
+   "mb": 0.0,
+   "files": 1,
+   "lang": "HTML",
+   "mtime": 1779938643.8693688,
+   "readme": false
+  },
+  {
+   "name": "minimaxM2.5test",
+   "cat": "模型测试",
+   "mb": 0.0,
+   "files": 8,
+   "lang": "JavaScript",
+   "mtime": 1772356229.2927938,
+   "readme": false
+  },
+  {
+   "name": "MP3转MP4",
+   "cat": "视频音频处理",
+   "mb": 0.0,
+   "files": 0,
+   "lang": "其他",
+   "mtime": 0,
+   "readme": false
+  },
+  {
+   "name": "n8nChinese",
+   "cat": "AI编程工具",
+   "mb": 0.0,
+   "files": 0,
+   "lang": "其他",
+   "mtime": 0,
+   "readme": false
+  },
+  {
+   "name": "new_API",
+   "cat": "AI编程工具",
+   "mb": 0.0,
+   "files": 0,
+   "lang": "其他",
+   "mtime": 0,
+   "readme": false
+  },
+  {
+   "name": "Obsidian",
+   "cat": "素材归档",
+   "mb": 0.0,
+   "files": 1,
+   "lang": "Markdown",
+   "mtime": 1776495886.102798,
+   "readme": false
+  },
+  {
+   "name": "openclaw",
+   "cat": "AI编程工具",
+   "mb": 12.0,
+   "files": 201,
+   "lang": "Shell",
+   "mtime": 1776051861.857974,
+   "readme": true
+  },
+  {
+   "name": "opencode",
+   "cat": "AI编程工具",
+   "mb": 0.2,
+   "files": 18,
+   "lang": "HTML",
+   "mtime": 1768322678.8721519,
+   "readme": true
+  },
+  {
+   "name": "qwen3.5",
+   "cat": "AI编程工具",
+   "mb": 0.0,
+   "files": 2,
+   "lang": "HTML",
+   "mtime": 1771756360.4812784,
+   "readme": false
+  },
+  {
+   "name": "rust_monitor",
+   "cat": "效率工具",
+   "mb": 0.0,
+   "files": 7,
+   "lang": "Rust",
+   "mtime": 1766565207.0399604,
+   "readme": false
+  },
+  {
+   "name": "rust_终端监控",
+   "cat": "效率工具",
+   "mb": 0.0,
+   "files": 1,
+   "lang": "其他",
+   "mtime": 1766565491.2153344,
+   "readme": false
+  },
+  {
+   "name": "skills",
+   "cat": "素材归档",
+   "mb": 29.2,
+   "files": 969,
+   "lang": "Python",
+   "mtime": 1767847391.9223065,
+   "readme": true
+  },
+  {
+   "name": "step3.7",
+   "cat": "模型测试",
+   "mb": 58.0,
+   "files": 236,
+   "lang": "Python",
+   "mtime": 1781086392.1579618,
+   "readme": false
+  },
+  {
+   "name": "stock-monitor",
+   "cat": "股票财经",
+   "mb": 7.8,
+   "files": 9,
+   "lang": "Python",
+   "mtime": 1774356863.845212,
+   "readme": true
+  },
+  {
+   "name": "test1023",
+   "cat": "模型测试",
+   "mb": 0.0,
+   "files": 3,
+   "lang": "HTML",
+   "mtime": 1761219889.1411576,
+   "readme": true
+  },
+  {
+   "name": "zhy",
+   "cat": "视频音频处理",
+   "mb": 215.1,
+   "files": 35,
+   "lang": "其他",
+   "mtime": 1761803903.686376,
+   "readme": false
+  },
+  {
+   "name": "ZZZZZ杂文件",
+   "cat": "素材归档",
+   "mb": 35.3,
+   "files": 52,
+   "lang": "HTML",
+   "mtime": 1766552703.3814034,
+   "readme": false
+  },
+  {
+   "name": "一泽的WebAcessSkill",
+   "cat": "素材归档",
+   "mb": 0.1,
+   "files": 15,
+   "lang": "Python",
+   "mtime": 1774263575.7565284,
+   "readme": true
+  },
+  {
+   "name": "中国黄金股市研究",
+   "cat": "股票财经",
+   "mb": 0.0,
+   "files": 0,
+   "lang": "其他",
+   "mtime": 0,
+   "readme": false
+  },
+  {
+   "name": "修复本地tun网络",
+   "cat": "效率工具",
+   "mb": 0.1,
+   "files": 2,
+   "lang": "其他",
+   "mtime": 1768967358.9641173,
+   "readme": false
+  },
+  {
+   "name": "六爻起卦",
+   "cat": "命理玄学",
+   "mb": 0.2,
+   "files": 6,
+   "lang": "Python",
+   "mtime": 1763982524.3590102,
+   "readme": false
+  },
+  {
+   "name": "分镜大师设计文档",
+   "cat": "内容创作",
+   "mb": 0.1,
+   "files": 3,
+   "lang": "Markdown",
+   "mtime": 1778740620.689122,
+   "readme": false
+  },
+  {
+   "name": "印占软件",
+   "cat": "命理玄学",
+   "mb": 366.1,
+   "files": 132,
+   "lang": "其他",
+   "mtime": 1768453285.4693565,
+   "readme": false
+  },
+  {
+   "name": "可以成功运行的例子",
+   "cat": "学习教育",
+   "mb": 0.3,
+   "files": 19,
+   "lang": "Python",
+   "mtime": 1760878631.6823306,
+   "readme": true
+  },
+  {
+   "name": "台湾竖排文字解读器",
+   "cat": "内容创作",
+   "mb": 0.0,
+   "files": 3,
+   "lang": "Python",
+   "mtime": 1771477770.7066722,
+   "readme": false
+  },
+  {
+   "name": "天工龙虾SkyClaw",
+   "cat": "素材归档",
+   "mb": 39.1,
+   "files": 4,
+   "lang": "其他",
+   "mtime": 1773736730.2922106,
+   "readme": false
+  },
+  {
+   "name": "好看的",
+   "cat": "内容创作",
+   "mb": 201.7,
+   "files": 49,
+   "lang": "其他",
+   "mtime": 1770824434.417549,
+   "readme": false
+  },
+  {
+   "name": "小兔的舞蹈",
+   "cat": "视频音频处理",
+   "mb": 134.9,
+   "files": 9,
+   "lang": "Python",
+   "mtime": 1780911912.0371392,
+   "readme": false
+  },
+  {
+   "name": "并行运行三个Agent截图记录",
+   "cat": "素材归档",
+   "mb": 28.0,
+   "files": 5,
+   "lang": "其他",
+   "mtime": 1778665812.9596436,
+   "readme": false
+  },
+  {
+   "name": "截止26年0108桌面文件",
+   "cat": "素材归档",
+   "mb": 96.2,
+   "files": 42,
+   "lang": "Markdown",
+   "mtime": 1767862540.4899547,
+   "readme": false
+  },
+  {
+   "name": "找回环境变量",
+   "cat": "效率工具",
+   "mb": 0.0,
+   "files": 1,
+   "lang": "其他",
+   "mtime": 1766582507.118227,
+   "readme": false
+  },
+  {
+   "name": "改作业程序文件夹",
+   "cat": "学习教育",
+   "mb": 0.0,
+   "files": 2,
+   "lang": "HTML",
+   "mtime": 1778289225.8705595,
+   "readme": false
+  },
+  {
+   "name": "新春秒哒",
+   "cat": "Web应用",
+   "mb": 0.8,
+   "files": 58,
+   "lang": "TypeScript",
+   "mtime": 1770728394.4253066,
+   "readme": true
+  },
+  {
+   "name": "旅游前夕准备open-code",
+   "cat": "素材归档",
+   "mb": 2.9,
+   "files": 7,
+   "lang": "HTML",
+   "mtime": 1770118466.0591724,
+   "readme": false
+  },
+  {
+   "name": "春节滤镜",
+   "cat": "视频音频处理",
+   "mb": 3.7,
+   "files": 5,
+   "lang": "其他",
+   "mtime": 1736175710.3739915,
+   "readme": false
+  },
+  {
+   "name": "核聚变比赛",
+   "cat": "比赛项目",
+   "mb": 21.0,
+   "files": 93,
+   "lang": "Python",
+   "mtime": 1776311020.9580514,
+   "readme": true
+  },
+  {
+   "name": "毕设研究",
+   "cat": "学习教育",
+   "mb": 0.3,
+   "files": 2,
+   "lang": "Markdown",
+   "mtime": 1769701766.122165,
+   "readme": false
+  },
+  {
+   "name": "爬取小说",
+   "cat": "内容创作",
+   "mb": 0.1,
+   "files": 4,
+   "lang": "HTML",
+   "mtime": 1762425771.3413703,
+   "readme": false
+  },
+  {
+   "name": "爬问真八字",
+   "cat": "命理玄学",
+   "mb": 112.7,
+   "files": 71,
+   "lang": "TypeScript",
+   "mtime": 1769011015.4323964,
+   "readme": true
+  },
+  {
+   "name": "甘总头像",
+   "cat": "素材归档",
+   "mb": 12.1,
+   "files": 10,
+   "lang": "其他",
+   "mtime": 1736530229.0593112,
+   "readme": false
+  },
+  {
+   "name": "算命提示词优化",
+   "cat": "命理玄学",
+   "mb": 0.1,
+   "files": 9,
+   "lang": "HTML",
+   "mtime": 1786382735.3637156,
+   "readme": false
+  },
+  {
+   "name": "老金的元Agent架构",
+   "cat": "AI编程工具",
+   "mb": 3.7,
+   "files": 260,
+   "lang": "JavaScript",
+   "mtime": 1777440275.799163,
+   "readme": true
+  },
+  {
+   "name": "耳机检测",
+   "cat": "效率工具",
+   "mb": 0.0,
+   "files": 2,
+   "lang": "PowerShell",
+   "mtime": 1775532745.7950966,
+   "readme": false
+  },
+  {
+   "name": "耳機检测",
+   "cat": "效率工具",
+   "mb": 0.0,
+   "files": 2,
+   "lang": "PowerShell",
+   "mtime": 1775532860.034552,
+   "readme": false
+  },
+  {
+   "name": "胖东来三轮大清洗视频AI处理",
+   "cat": "视频音频处理",
+   "mb": 100.6,
+   "files": 4,
+   "lang": "其他",
+   "mtime": 1785390408.713807,
+   "readme": false
+  },
+  {
+   "name": "腾讯Marvis",
+   "cat": "AI编程工具",
+   "mb": 59.4,
+   "files": 15,
+   "lang": "Markdown",
+   "mtime": 1782282486.1475196,
+   "readme": false
+  },
+  {
+   "name": "苏苏cow-coze",
+   "cat": "AI编程工具",
+   "mb": 0.0,
+   "files": 2,
+   "lang": "其他",
+   "mtime": 1734240726.7916822,
+   "readme": false
+  },
+  {
+   "name": "英语试卷作文拍照",
+   "cat": "学习教育",
+   "mb": 6.8,
+   "files": 10,
+   "lang": "其他",
+   "mtime": 1718117844.9764054,
+   "readme": false
+  },
+  {
+   "name": "迁移系统",
+   "cat": "效率工具",
+   "mb": 0.1,
+   "files": 9,
+   "lang": "Batch",
+   "mtime": 1774152570.6441255,
+   "readme": false
+  },
+  {
+   "name": "释放法软件",
+   "cat": "效率工具",
+   "mb": 0.0,
+   "files": 0,
+   "lang": "其他",
+   "mtime": 0,
+   "readme": false
+  },
+  {
+   "name": "钟慧瑜的教学函数动画代码",
+   "cat": "学习教育",
+   "mb": 2.7,
+   "files": 13,
+   "lang": "HTML",
+   "mtime": 1744646473.2409427,
+   "readme": false
+  },
+  {
+   "name": "铃芽之旅音频hook",
+   "cat": "视频音频处理",
+   "mb": 3.8,
+   "files": 3,
+   "lang": "PowerShell",
+   "mtime": 1778941836.8652291,
+   "readme": false
+  },
+  {
+   "name": "预测世界杯",
+   "cat": "游戏娱乐",
+   "mb": 0.0,
+   "files": 0,
+   "lang": "其他",
+   "mtime": 0,
+   "readme": false
+  },
+  {
+   "name": "魔搭api",
+   "cat": "AI编程工具",
+   "mb": 7.3,
+   "files": 85,
+   "lang": "Python",
+   "mtime": 1762779616.8047826,
+   "readme": true
+  },
+  {
+   "name": "魔搭游戏工具",
+   "cat": "比赛项目",
+   "mb": 0.6,
+   "files": 116,
+   "lang": "TypeScript",
+   "mtime": 1765280663.3954825,
+   "readme": true
+  }
+ ],
+ "timeline": {
+  "1970-01": 10,
+  "2024-03": 1,
+  "2024-06": 1,
+  "2024-11": 1,
+  "2024-12": 2,
+  "2025-01": 4,
+  "2025-04": 2,
+  "2025-05": 1,
+  "2025-06": 1,
+  "2025-07": 6,
+  "2025-08": 3,
+  "2025-09": 4,
+  "2025-10": 10,
+  "2025-11": 11,
+  "2025-12": 16,
+  "2026-01": 13,
+  "2026-02": 6,
+  "2026-03": 9,
+  "2026-04": 8,
+  "2026-05": 12,
+  "2026-06": 3,
+  "2026-07": 2,
+  "2026-08": 4
+ },
+ "langs": {
+  "其他": 36,
+  "Python": 33,
+  "HTML": 24,
+  "Markdown": 9,
+  "TypeScript": 8,
+  "JavaScript": 8,
+  "Shell": 3,
+  "PowerShell": 3,
+  "Batch": 2,
+  "Jupyter": 1,
+  "Swift": 1,
+  "Java": 1,
+  "Rust": 1
+ },
+ "tiers": {
+  "微小": 69,
+  "小": 20,
+  "大": 16,
+  "中": 24,
+  "巨大": 1
+ }
+}
