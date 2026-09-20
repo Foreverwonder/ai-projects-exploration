@@ -1,141 +1,155 @@
 # -*- coding: utf-8 -*-
-"""只读扫描 D:\AI_Projects，收集项目元数据用于统计分析。不做任何修改。"""
-import os, json, time
-from collections import Counter, defaultdict
+r"""只读扫描目录，收集项目元数据。不改动任何文件。
 
-ROOT = r"D:\AI_Projects"
+用法：  python scan_ai_projects.py [目标目录]
+默认扫 D:\AI_Projects，结果写到同目录 raw_scan.json。
 
-# 跳过的大目录（避免扫描 node_modules 等海量文件）
+Windows 上的坑（都踩过）：
+  - 一律 os.scandir，不要 os.stat(路径)，慢 8 倍
+  - junction 用 st_file_attributes & 0x400 判断，os.path.islink 对 junction 返回 False
+  - NTFS 存在负时间戳，time.localtime 会直接抛 OSError；判据 m < 0 or m > 253402300799，
+    并且必须在 min/max 聚合「之前」过滤，否则会污染结果
+"""
+import os, json, time, sys
+
 SKIP_DIRS = {"node_modules", ".git", "__pycache__", ".venv", "venv", "dist", "build",
              ".next", ".nuxt", ".cache", "target", "site-packages", ".obsidian",
-             ".trash", ".gitbook", "vendor", "Pods", ".idea", ".vscode"}
-SKIP_EXTS = {".pyc", ".pyo", ".class", ".o", ".so", ".dll", ".exe", ".png", ".jpg",
-             ".jpeg", ".gif", ".mp4", ".mp3", ".zip", ".rar", ".7z", ".webp", ".ico",
-             ".woff", ".woff2", ".ttf", ".map", ".lock"}
+             ".trash", ".gitbook", "vendor", "Pods", ".idea", ".vscode", ".pnpm-store",
+             ".mypy_cache", ".pytest_cache", ".ruff_cache", "coverage"}
+SKIP_FILES = {"desktop.ini", "thumbs.db", ".ds_store"}
+MT_MAX = 253402300799.0
 
-def is_skip_dir(name):
-    return name in SKIP_DIRS or name.startswith(".")
+LANG_MAP = {".py": "Python", ".js": "JavaScript", ".mjs": "JavaScript", ".cjs": "JavaScript",
+            ".ts": "TypeScript", ".tsx": "TypeScript", ".jsx": "JavaScript", ".java": "Java",
+            ".go": "Go", ".c": "C", ".cpp": "C++", ".h": "C", ".rs": "Rust",
+            ".html": "HTML", ".htm": "HTML", ".css": "CSS", ".vue": "Vue", ".svelte": "Svelte",
+            ".md": "Markdown", ".json": "JSON", ".yaml": "YAML", ".yml": "YAML",
+            ".sh": "Shell", ".bat": "Batch", ".ps1": "PowerShell", ".php": "PHP",
+            ".rb": "Ruby", ".swift": "Swift", ".kt": "Kotlin", ".sql": "SQL",
+            ".ipynb": "Jupyter", ".cs": "C#", ".lua": "Lua", ".toml": "TOML"}
+DOC_EXTS = (".md", ".json", ".yaml", ".yml", ".toml", ".txt")
 
-def scan_dir(path, depth=0, max_depth=12):
-    """返回 (文件数, 总大小, 语言计数, 最近修改时间戳, 扩展名Top)"""
-    file_count = 0
-    total_size = 0
-    lang_counter = Counter()
-    ext_counter = Counter()
-    latest_mtime = 0
-    readme_found = False
-    max_files = 200000  # 安全阀
+
+def good(m):
+    return m is not None and 0 <= m <= MT_MAX
+
+
+def scan_dir(path, depth=0, max_depth=14):
+    files = size = 0
+    langs, latest, readmes, top_names = {}, 0.0, [], []
     try:
-        entries = os.scandir(path)
+        it = os.scandir(path)
     except (PermissionError, OSError):
-        return file_count, total_size, {}, latest_mtime, ext_counter, readme_found, {}
-    with entries as it:
-        for e in it:
-            if file_count >= max_files:
-                break
+        return dict(files=0, size=0, langs={}, latest=0.0, readmes=[], top_names=[])
+    with it as entries:
+        for e in entries:
             try:
                 if e.is_dir(follow_symlinks=False):
-                    if is_skip_dir(e.name) or depth >= max_depth:
+                    try:
+                        if e.stat(follow_symlinks=False).st_file_attributes & 0x400:
+                            continue          # 重解析点（junction）
+                    except (OSError, AttributeError):
+                        pass
+                    if e.name in SKIP_DIRS or e.name.startswith(".") or depth >= max_depth:
                         continue
-                    fc, ts, lc, lm, extc, rf, sub_meta = scan_dir(e.path, depth+1, max_depth)
-                    file_count += fc
-                    total_size += ts
-                    lang_counter.update(lc)
-                    ext_counter.update(extc)
-                    latest_mtime = max(latest_mtime, lm)
-                    readme_found = readme_found or rf
+                    sub = scan_dir(e.path, depth + 1, max_depth)
+                    files += sub["files"]
+                    size += sub["size"]
+                    for k, v in sub["langs"].items():
+                        langs[k] = langs.get(k, 0) + v
+                    if good(sub["latest"]):
+                        latest = max(latest, sub["latest"])
+                    readmes.extend(sub["readmes"])
+                    if depth == 0:
+                        top_names.append((e.name, sub["files"], sub["size"]))
                 else:
-                    name_l = e.name.lower()
-                    if name_l in ("desktop.ini", "thumbs.db"):
+                    nm = e.name.lower()
+                    if nm in SKIP_FILES:
                         continue
                     try:
                         st = e.stat(follow_symlinks=False)
                     except OSError:
                         continue
-                    file_count += 1
-                    total_size += st.st_size
-                    latest_mtime = max(latest_mtime, st.st_mtime)
-                    ext = os.path.splitext(name_l)[1]
-                    if ext and ext not in SKIP_EXTS:
-                        ext_counter[ext] += 1
-                    if name_l.startswith("readme") or "readme" in name_l:
-                        readme_found = True
-                    if ext in (".py", ".js", ".ts", ".tsx", ".jsx", ".java", ".go",
-                               ".c", ".cpp", ".rs", ".html", ".css", ".vue", ".md",
-                               ".json", ".yaml", ".yml", ".sh", ".bat", ".ps1",
-                               ".php", ".rb", ".swift", ".kt", ".sql", ".ipynb", ".mjs"):
-                        lang_counter[ext] += 1
+                    files += 1
+                    size += st.st_size
+                    if good(st.st_mtime):
+                        latest = max(latest, st.st_mtime)
+                    ext = os.path.splitext(nm)[1]
+                    if ext:
+                        langs[ext] = langs.get(ext, 0) + 1
+                    if nm.startswith("readme") and depth <= 2:
+                        readmes.append(e.path)
+                    if depth == 0:
+                        top_names.append((e.name, 1, st.st_size))
             except OSError:
                 continue
-    return file_count, total_size, dict(lang_counter), latest_mtime, dict(ext_counter), readme_found, {}
+    return dict(files=files, size=size, langs=langs, latest=latest,
+                readmes=readmes, top_names=top_names)
 
-def lang_name(ext):
-    m = {".py": "Python", ".js": "JavaScript", ".ts": "TypeScript", ".tsx": "TypeScript",
-         ".jsx": "JavaScript", ".java": "Java", ".go": "Go", ".c": "C", ".cpp": "C++",
-         ".rs": "Rust", ".html": "HTML", ".css": "CSS", ".vue": "Vue", ".md": "Markdown",
-         ".json": "JSON", ".yaml": "YAML", ".yml": "YAML", ".sh": "Shell", ".bat": "Batch",
-         ".ps1": "PowerShell", ".php": "PHP", ".rb": "Ruby", ".swift": "Swift",
-         ".kt": "Kotlin", ".sql": "SQL", ".ipynb": "Jupyter", ".mjs": "JavaScript"}
-    return m.get(ext, ext.lstrip(".").upper())
+
+def read_readme_title(path):
+    try:
+        raw = open(path, "r", encoding="utf-8", errors="replace").read(4000)
+    except OSError:
+        return None, None
+    title = desc = None
+    for line in raw.splitlines():
+        s = line.strip()
+        if not s:
+            continue
+        if title is None and s.startswith("#"):
+            title = s.lstrip("#").strip()
+            continue
+        if title is not None and not s.startswith(("#", "!", "[", "|", "<", "-", "*", ">", "`")) and len(s) > 4:
+            desc = s[:110]
+            break
+    return title, desc
+
 
 def main():
-    results = []
-    total_start = time.time()
-    for e in sorted(os.scandir(ROOT), key=lambda x: x.name.lower()):
-        if e.is_dir(follow_symlinks=False):
-            if e.name in (".obsidian", "logs") or e.name.startswith("."):
-                continue
-            fc, ts, lc, lm, extc, rf, _ = scan_dir(e.path)
-            if fc == 0:
-                # 空目录也算
-                pass
-            total_ext = sum(extc.values())
-            # 主语言 = 出现最多的代码/文档扩展名（排除json/md优先选代码）
-            code_priority = [k for k in lc if k not in (".md", ".json", ".yaml", ".yml")]
-            if code_priority:
-                main_lang = lang_name(max(code_priority, key=lc.get))
-            elif lc:
-                main_lang = lang_name(max(lc, key=lc.get))
-            else:
-                main_lang = "其他"
-            results.append({
-                "name": e.name,
-                "type": "dir",
-                "file_count": fc,
-                "size_bytes": ts,
-                "latest_mtime": lm,
-                "langs": lc,
-                "main_lang": main_lang,
-                "readme": rf,
-                "top_exts": dict(sorted(extc.items(), key=lambda x: -x[1])[:5]),
-            })
-        else:
-            try:
-                st = e.stat(follow_symlinks=False)
-                if e.name.lower() == "desktop.ini":
+    root = sys.argv[1] if len(sys.argv) > 1 else r"D:\AI_Projects"
+    here = os.path.dirname(os.path.abspath(__file__))
+    items, t0 = [], time.time()
+    for e in sorted(os.scandir(root), key=lambda x: x.name.lower()):
+        try:
+            if e.is_dir(follow_symlinks=False):
+                if e.name.startswith("."):
                     continue
-                results.append({
-                    "name": e.name, "type": "file", "file_count": 1,
-                    "size_bytes": st.st_size, "latest_mtime": st.st_mtime,
-                    "langs": {}, "main_lang": "文件",
-                    "readme": False, "top_exts": {}
-                })
-            except OSError:
-                continue
+                sub = scan_dir(e.path)
+                title = desc = None
+                for rp in sub["readmes"][:3]:
+                    t, d = read_readme_title(rp)
+                    if t:
+                        title, desc = t, d
+                        break
+                code = {k: v for k, v in sub["langs"].items() if k not in DOC_EXTS}
+                main_lang = "其他"
+                if code:
+                    main_lang = LANG_MAP.get(max(code, key=code.get), "其他")
+                elif sub["langs"]:
+                    main_lang = LANG_MAP.get(max(sub["langs"], key=sub["langs"].get), "其他")
+                items.append(dict(name=e.name, kind="dir", files=sub["files"], size=sub["size"],
+                                  latest=sub["latest"], readme_title=title, readme_desc=desc,
+                                  main_lang=main_lang, readme_count=len(sub["readmes"]),
+                                  top_children=[{"n": n, "f": f, "s": s} for n, f, s in
+                                                sorted(sub["top_names"], key=lambda x: -x[2])[:6]]))
+            else:
+                if e.name.lower() in SKIP_FILES:
+                    continue
+                st = e.stat(follow_symlinks=False)
+                items.append(dict(name=e.name, kind="file", files=1, size=st.st_size,
+                                  latest=st.st_mtime, readme_title=None, readme_desc=None,
+                                  main_lang="文件", readme_count=0, top_children=[]))
+        except OSError:
+            continue
+    out = dict(root=root, items=items, scanned_at=time.strftime("%Y-%m-%d %H:%M:%S"),
+               elapsed_s=round(time.time() - t0, 1))
+    json.dump(out, open(os.path.join(here, "raw_scan.json"), "w", encoding="utf-8"),
+              ensure_ascii=False, indent=1)
+    d = [x for x in items if x["kind"] == "dir"]
+    print("扫描完成：%d 个目录 / %d 个文件 / %.1f MB / %.1fs" % (
+        len(d), sum(x["files"] for x in d), sum(x["size"] for x in d) / 1048576, out["elapsed_s"]))
 
-    out = {
-        "scan_time": time.strftime("%Y-%m-%d %H:%M:%S"),
-        "root": ROOT,
-        "elapsed_s": round(time.time() - total_start, 1),
-        "projects": results,
-    }
-    with open(r"C:\Users\71976\WorkBuddy\2026-08-11-23-35-59\ai_projects_scan.json", "w", encoding="utf-8") as f:
-        json.dump(out, f, ensure_ascii=False, indent=1)
-    print(f"扫描完成: {len(results)} 个条目, 耗时 {out['elapsed_s']}s")
-    # 打印概览
-    total_files = sum(r["file_count"] for r in results if r["type"] == "dir")
-    total_size = sum(r["size_bytes"] for r in results if r["type"] == "dir")
-    print(f"目录数: {sum(1 for r in results if r['type']=='dir')}, 总文件数: {total_files}, 总大小: {total_size/1024/1024:.1f} MB")
 
 if __name__ == "__main__":
     main()

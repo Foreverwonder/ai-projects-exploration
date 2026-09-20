@@ -1,0 +1,4847 @@
+{
+ "root": "D:\\AI_Projects",
+ "items": [
+  {
+   "name": "0613",
+   "kind": "dir",
+   "files": 29,
+   "size": 159714,
+   "latest": 1767952540.3751454,
+   "readme_title": "Fetcher MCP",
+   "readme_desc": "MCP server for fetch web page content using Playwright headless browser.",
+   "main_lang": "TypeScript",
+   "readme_count": 1,
+   "top_children": [
+    {
+     "n": "fetch-mcp",
+     "f": 28,
+     "s": 159176
+    },
+    {
+     "n": "bash.exe.stackdump",
+     "f": 1,
+     "s": 538
+    }
+   ]
+  },
+  {
+   "name": "0614钟慧瑜课件",
+   "kind": "dir",
+   "files": 3,
+   "size": 5291879,
+   "latest": 1749873765.3584852,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "HTML",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "函数的奇偶性教学设计.docx",
+     "f": 1,
+     "s": 3461217
+    },
+    {
+     "n": "函数的奇偶性教学设计.pdf",
+     "f": 1,
+     "s": 1806368
+    },
+    {
+     "n": "偶函数动态演示.html",
+     "f": 1,
+     "s": 24294
+    }
+   ]
+  },
+  {
+   "name": "0713",
+   "kind": "dir",
+   "files": 16,
+   "size": 238981939,
+   "latest": 1752374582.9833622,
+   "readme_title": "Claude Code 快速启动指南",
+   "readme_desc": "python start-claude.py",
+   "main_lang": "其他",
+   "readme_count": 1,
+   "top_children": [
+    {
+     "n": "公众号下载文件",
+     "f": 16,
+     "s": 238981939
+    }
+   ]
+  },
+  {
+   "name": "0729房源归档Agent",
+   "kind": "dir",
+   "files": 4,
+   "size": 310794,
+   "latest": 1753761387.123152,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "img2.png",
+     "f": 1,
+     "s": 86651
+    },
+    {
+     "n": "img4.png",
+     "f": 1,
+     "s": 79799
+    },
+    {
+     "n": "img3.png",
+     "f": 1,
+     "s": 75246
+    },
+    {
+     "n": "img1.png",
+     "f": 1,
+     "s": 69098
+    }
+   ]
+  },
+  {
+   "name": "0804",
+   "kind": "dir",
+   "files": 48,
+   "size": 518652,
+   "latest": 1754413173.7504108,
+   "readme_title": "React + Vite",
+   "readme_desc": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+   "main_lang": "JavaScript",
+   "readme_count": 1,
+   "top_children": [
+    {
+     "n": "src",
+     "f": 38,
+     "s": 315569
+    },
+    {
+     "n": "package-lock.json",
+     "f": 1,
+     "s": 174150
+    },
+    {
+     "n": "AI小钧的Markdown笔记生成器.html",
+     "f": 1,
+     "s": 23381
+    },
+    {
+     "n": "public",
+     "f": 1,
+     "s": 1497
+    },
+    {
+     "n": "README.md",
+     "f": 1,
+     "s": 856
+    },
+    {
+     "n": "package.json",
+     "f": 1,
+     "s": 842
+    }
+   ]
+  },
+  {
+   "name": "0804_1",
+   "kind": "dir",
+   "files": 8,
+   "size": 112391,
+   "latest": 1767847360.6531825,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "梅渚村分镜脚本集.xlsx",
+     "f": 1,
+     "s": 58216
+    },
+    {
+     "n": "MD笔记长截图生成器 .html",
+     "f": 1,
+     "s": 13105
+    },
+    {
+     "n": "txt_output_v2.xlsx",
+     "f": 1,
+     "s": 9803
+    },
+    {
+     "n": "test_output.xlsx",
+     "f": 1,
+     "s": 8773
+    },
+    {
+     "n": "test_output2.xlsx",
+     "f": 1,
+     "s": 8772
+    },
+    {
+     "n": "txt.md",
+     "f": 1,
+     "s": 5491
+    }
+   ]
+  },
+  {
+   "name": "0806袋鼠大佬",
+   "kind": "dir",
+   "files": 6,
+   "size": 51003,
+   "latest": 1754491060.9326851,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "HTML",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "oss小球.html",
+     "f": 1,
+     "s": 12485
+    },
+    {
+     "n": "森林冰火人.html",
+     "f": 1,
+     "s": 9187
+    },
+    {
+     "n": "index - 副本.html",
+     "f": 1,
+     "s": 8268
+    },
+    {
+     "n": "积木.html",
+     "f": 1,
+     "s": 7525
+    },
+    {
+     "n": "万花尺oss.html",
+     "f": 1,
+     "s": 7285
+    },
+    {
+     "n": "index.html",
+     "f": 1,
+     "s": 6253
+    }
+   ]
+  },
+  {
+   "name": "2024AI项目",
+   "kind": "dir",
+   "files": 121,
+   "size": 5987904,
+   "latest": 1753976437.80883,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "test0925_1348",
+     "f": 52,
+     "s": 3334635
+    },
+    {
+     "n": "testA_data",
+     "f": 57,
+     "s": 2544226
+    },
+    {
+     "n": "20241008",
+     "f": 11,
+     "s": 96097
+    },
+    {
+     "n": "markdown-screenshot-generator.html",
+     "f": 1,
+     "s": 12946
+    }
+   ]
+  },
+  {
+   "name": "202508全球攻防",
+   "kind": "dir",
+   "files": 2128,
+   "size": 693235474,
+   "latest": 1755398363.1737127,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "0815黄总part1",
+     "f": 1001,
+     "s": 227822672
+    },
+    {
+     "n": "赛道二视频0813result4",
+     "f": 36,
+     "s": 143230552
+    },
+    {
+     "n": "imgs-92.zip",
+     "f": 1,
+     "s": 124043452
+    },
+    {
+     "n": "imgs-92",
+     "f": 994,
+     "s": 114841948
+    },
+    {
+     "n": "赛道二视频赛道-题目资料",
+     "f": 86,
+     "s": 72326649
+    },
+    {
+     "n": "图片编辑",
+     "f": 8,
+     "s": 10868215
+    }
+   ]
+  },
+  {
+   "name": "202509中石化",
+   "kind": "dir",
+   "files": 1,
+   "size": 60312,
+   "latest": 1757733080.042256,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "Jupyter",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "中高渗水驱油藏注采参数调整方案设计_baseline.ipynb",
+     "f": 1,
+     "s": 60312
+    }
+   ]
+  },
+  {
+   "name": "2025AI播客",
+   "kind": "dir",
+   "files": 6,
+   "size": 13182842,
+   "latest": 1765598088.514534,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "9bfe94544e7cf40f7b930c527e0b8afe.png",
+     "f": 1,
+     "s": 11560255
+    },
+    {
+     "n": "48d53f0a9702d5dc0f316142853ee18f.png",
+     "f": 1,
+     "s": 1049879
+    },
+    {
+     "n": "风格样式范例.png",
+     "f": 1,
+     "s": 570676
+    },
+    {
+     "n": "fried Red.txt",
+     "f": 1,
+     "s": 1079
+    },
+    {
+     "n": "团队构成.txt",
+     "f": 1,
+     "s": 875
+    },
+    {
+     "n": "目录.txt",
+     "f": 1,
+     "s": 78
+    }
+   ]
+  },
+  {
+   "name": "24AI攻防生图赛道一",
+   "kind": "dir",
+   "files": 9,
+   "size": 4167954,
+   "latest": 1730965094.9448035,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "证书 (2).pdf",
+     "f": 1,
+     "s": 3657188
+    },
+    {
+     "n": "risk-434提示词.xlsx",
+     "f": 1,
+     "s": 194684
+    },
+    {
+     "n": "submit-508分.csv",
+     "f": 1,
+     "s": 120627
+    },
+    {
+     "n": "508-sumbit1027_risk_similarity(3).xlsx",
+     "f": 1,
+     "s": 57832
+    },
+    {
+     "n": "508-sumbit1022_risk_similarity(3).xlsx",
+     "f": 1,
+     "s": 57407
+    },
+    {
+     "n": "risk_422-错题分析.xlsx",
+     "f": 1,
+     "s": 55060
+    }
+   ]
+  },
+  {
+   "name": "251004",
+   "kind": "dir",
+   "files": 4,
+   "size": 20608757,
+   "latest": 1759581759.209872,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "20.png",
+     "f": 1,
+     "s": 9155193
+    },
+    {
+     "n": "18.jpg",
+     "f": 1,
+     "s": 4487076
+    },
+    {
+     "n": "17.jpg",
+     "f": 1,
+     "s": 3613485
+    },
+    {
+     "n": "19.jpg",
+     "f": 1,
+     "s": 3353003
+    }
+   ]
+  },
+  {
+   "name": "251011",
+   "kind": "dir",
+   "files": 60,
+   "size": 24049806,
+   "latest": 1760436224.500568,
+   "readme_title": "Gemini 2.5 Pro API 项目",
+   "readme_desc": "这是一个完整的 Gemini 2.5 Pro API 集成项目，包含 Jupyter Notebook 测试、Flask 后端服务器和四个 Web 界面（文本生成、视频分析、图像编辑和 API 配置）。图像编辑功能已集成",
+   "main_lang": "Python",
+   "readme_count": 1,
+   "top_children": [
+    {
+     "n": "test_5min_video.mp4",
+     "f": 1,
+     "s": 13570798
+    },
+    {
+     "n": "uploads",
+     "f": 2,
+     "s": 7084219
+    },
+    {
+     "n": "图片素材",
+     "f": 2,
+     "s": 1752461
+    },
+    {
+     "n": "test_video.mp4",
+     "f": 1,
+     "s": 587039
+    },
+    {
+     "n": "test_output_dual.jpg",
+     "f": 1,
+     "s": 71725
+    },
+    {
+     "n": "对比测试_1_单图测试.jpg",
+     "f": 1,
+     "s": 68425
+    }
+   ]
+  },
+  {
+   "name": "251012同声传译",
+   "kind": "dir",
+   "files": 338,
+   "size": 121617864,
+   "latest": 1760372500.7074094,
+   "readme_title": "🌏 视频同声传译工具",
+   "readme_desc": "基于火山引擎同声传译2.0 API的视频翻译工具，支持将英文视频翻译成中文并**保持原说话人音色**。",
+   "main_lang": "其他",
+   "readme_count": 1,
+   "top_children": [
+    {
+     "n": "temp",
+     "f": 227,
+     "s": 119728504
+    },
+    {
+     "n": "资料",
+     "f": 69,
+     "s": 1734921
+    },
+    {
+     "n": "python_protogen",
+     "f": 14,
+     "s": 27785
+    },
+    {
+     "n": "volcengine_api_protobuf.py",
+     "f": 1,
+     "s": 16442
+    },
+    {
+     "n": "MCP使用指南.md",
+     "f": 1,
+     "s": 16355
+    },
+    {
+     "n": "服务接口认证信息.txt",
+     "f": 1,
+     "s": 13611
+    }
+   ]
+  },
+  {
+   "name": "251017_modelscope_AIgame",
+   "kind": "dir",
+   "files": 55,
+   "size": 495856,
+   "latest": 1761093232.5821776,
+   "readme_title": "详细文档见https://modelscope.cn/docs/%E5%88%9B%E7%A9%BA%E9%97%B4%E5%8D%A1%E7%89%87",
+   "readme_desc": "domain: #领域：cv/nlp/audio/multi-modal/AutoML",
+   "main_lang": "Python",
+   "readme_count": 2,
+   "top_children": [
+    {
+     "n": "问题图片.png",
+     "f": 1,
+     "s": 189977
+    },
+    {
+     "n": "game_app",
+     "f": 8,
+     "s": 43054
+    },
+    {
+     "n": "app.py",
+     "f": 1,
+     "s": 30812
+    },
+    {
+     "n": "AI_game",
+     "f": 1,
+     "s": 23818
+    },
+    {
+     "n": "最终实现报告.md",
+     "f": 1,
+     "s": 14226
+    },
+    {
+     "n": "当前报错.txt",
+     "f": 1,
+     "s": 12007
+    }
+   ]
+  },
+  {
+   "name": "251023",
+   "kind": "dir",
+   "files": 254,
+   "size": 2272114,
+   "latest": 1761217861.192005,
+   "readme_title": "Welcome to Your Miaoda Project",
+   "readme_desc": "Miaoda Application Link URL",
+   "main_lang": "TypeScript",
+   "readme_count": 2,
+   "top_children": [
+    {
+     "n": "AInovels",
+     "f": 254,
+     "s": 2272114
+    },
+    {
+     "n": "备份",
+     "f": 0,
+     "s": 0
+    }
+   ]
+  },
+  {
+   "name": "251028",
+   "kind": "dir",
+   "files": 20,
+   "size": 135277,
+   "latest": 1761757956.9561894,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "HTML",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "hexagon_bouncing_ball.html",
+     "f": 1,
+     "s": 26413
+    },
+    {
+     "n": "nof1_ai_实际技术数据文档.md",
+     "f": 1,
+     "s": 18599
+    },
+    {
+     "n": "E",
+     "f": 7,
+     "s": 17089
+    },
+    {
+     "n": "nof1_ai_数据字段汇总.md",
+     "f": 1,
+     "s": 14579
+    },
+    {
+     "n": "编程MCP工具技术文档.md",
+     "f": 1,
+     "s": 11170
+    },
+    {
+     "n": "nof1_ai_技术文档_系统提示词与日志.md",
+     "f": 1,
+     "s": 10149
+    }
+   ]
+  },
+  {
+   "name": "251110",
+   "kind": "dir",
+   "files": 85,
+   "size": 12963934,
+   "latest": 1762833375.0234857,
+   "readme_title": "六爻随机起卦程序",
+   "readme_desc": "一个简单的Python程序，用于模拟六爻铜钱摇卦，生成本卦、变卦和动爻信息，并显示卦象。",
+   "main_lang": "HTML",
+   "readme_count": 6,
+   "top_children": [
+    {
+     "n": "ezgif-1c06d6067e3c9c84.gif",
+     "f": 1,
+     "s": 6121138
+    },
+    {
+     "n": "59dd6e32-e676-43e7-8df0-4c3a49cc035b.png",
+     "f": 1,
+     "s": 1557007
+    },
+    {
+     "n": "313c8ab9-3737-43a9-b4e5-a64433b50c75.png",
+     "f": 1,
+     "s": 1380165
+    },
+    {
+     "n": "空间向量课件gemini2.5pro最终版.gif",
+     "f": 1,
+     "s": 818604
+    },
+    {
+     "n": "251110_3",
+     "f": 4,
+     "s": 770225
+    },
+    {
+     "n": "251111_0",
+     "f": 10,
+     "s": 505553
+    }
+   ]
+  },
+  {
+   "name": "251114魔搭2",
+   "kind": "dir",
+   "files": 29,
+   "size": 1297004,
+   "latest": 1763612696.7682135,
+   "readme_title": "Welcome to Your Miaoda Project",
+   "readme_desc": "Miaoda Application Link URL",
+   "main_lang": "Python",
+   "readme_count": 1,
+   "top_children": [
+    {
+     "n": "Zlink-test",
+     "f": 29,
+     "s": 1297004
+    }
+   ]
+  },
+  {
+   "name": "251114魔搭AI小说提交版",
+   "kind": "dir",
+   "files": 23,
+   "size": 625711,
+   "latest": 1763115008.2269359,
+   "readme_title": "Welcome to Your Miaoda Project",
+   "readme_desc": "Miaoda Application Link URL",
+   "main_lang": "Python",
+   "readme_count": 1,
+   "top_children": [
+    {
+     "n": "Zlink-test",
+     "f": 23,
+     "s": 625711
+    }
+   ]
+  },
+  {
+   "name": "251114魔搭AI小说黄总优化版",
+   "kind": "dir",
+   "files": 23,
+   "size": 369594,
+   "latest": 1763102435.463436,
+   "readme_title": "Welcome to Your Miaoda Project",
+   "readme_desc": "Miaoda Application Link URL",
+   "main_lang": "Python",
+   "readme_count": 1,
+   "top_children": [
+    {
+     "n": "Zlink-test",
+     "f": 22,
+     "s": 221008
+    },
+    {
+     "n": "Zlink-test.zip",
+     "f": 1,
+     "s": 148586
+    }
+   ]
+  },
+  {
+   "name": "251115",
+   "kind": "dir",
+   "files": 299,
+   "size": 217338153,
+   "latest": 1767844789.4769554,
+   "readme_title": "Skills",
+   "readme_desc": "Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performanc",
+   "main_lang": "其他",
+   "readme_count": 1,
+   "top_children": [
+    {
+     "n": "佛山功夫配乐版.mp4",
+     "f": 1,
+     "s": 66393727
+    },
+    {
+     "n": "佛山功夫完整剪辑版.mp4",
+     "f": 1,
+     "s": 63585435
+    },
+    {
+     "n": "skills-repo",
+     "f": 281,
+     "s": 8725312
+    },
+    {
+     "n": "jimeng-2025-11-15-2067-年轻武者将所有金色能量汇聚于右拳，然后向前打出强力一拳。金色气场向外爆发，形成一....mp4",
+     "f": 1,
+     "s": 8140234
+    },
+    {
+     "n": "jimeng-2025-11-15-1877-镜头保持稳定，金色阳光透过窗棂缓缓移动，空气中的尘埃轻柔地漂浮旋转。年轻武者保持....mp4",
+     "f": 1,
+     "s": 8115295
+    },
+    {
+     "n": "jimeng-2025-11-15-4632-年轻人猛然睁眼，眼神锐利充满专注，开始对木人桩进行咏春式的快速连击，双臂化为残影....mp4",
+     "f": 1,
+     "s": 8095736
+    }
+   ]
+  },
+  {
+   "name": "251120compare_price",
+   "kind": "dir",
+   "files": 4713,
+   "size": 418755576,
+   "latest": 1763710287.5933053,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "JavaScript",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "Default",
+     "f": 4551,
+     "s": 388902980
+    },
+    {
+     "n": "optimization_guide_model_store",
+     "f": 17,
+     "s": 7438410
+    },
+    {
+     "n": "GrShaderCache",
+     "f": 70,
+     "s": 6059696
+    },
+    {
+     "n": "Safe Browsing",
+     "f": 35,
+     "s": 4956759
+    },
+    {
+     "n": "BrowserMetrics",
+     "f": 1,
+     "s": 4194304
+    },
+    {
+     "n": "BrowserMetrics-spare.pma",
+     "f": 1,
+     "s": 4194304
+    }
+   ]
+  },
+  {
+   "name": "251124m2.1文件粉碎机",
+   "kind": "dir",
+   "files": 6,
+   "size": 58223,
+   "latest": 1766546180.5816143,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "C#",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "ForceDelete.cs",
+     "f": 1,
+     "s": 23103
+    },
+    {
+     "n": "FolderForceDelete.cs",
+     "f": 1,
+     "s": 19039
+    },
+    {
+     "n": "ForceDelete.exe",
+     "f": 1,
+     "s": 14848
+    },
+    {
+     "n": "文件粉碎机promp.txt",
+     "f": 1,
+     "s": 1071
+    },
+    {
+     "n": "待删除",
+     "f": 2,
+     "s": 162
+    }
+   ]
+  },
+  {
+   "name": "251124窗口半透明工具",
+   "kind": "dir",
+   "files": 10,
+   "size": 141164,
+   "latest": 1766552883.5448613,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "Batch",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "WindowTransparencyGUI.exe",
+     "f": 1,
+     "s": 64947
+    },
+    {
+     "n": "WindowTransparency.exe",
+     "f": 1,
+     "s": 60474
+    },
+    {
+     "n": "WindowTransparencyGUI.cpp",
+     "f": 1,
+     "s": 6203
+    },
+    {
+     "n": "WindowTransparency.cpp",
+     "f": 1,
+     "s": 4360
+    },
+    {
+     "n": "install_g++.bat",
+     "f": 1,
+     "s": 1940
+    },
+    {
+     "n": "install_mingw.bat",
+     "f": 1,
+     "s": 1275
+    }
+   ]
+  },
+  {
+   "name": "251125神速TTS",
+   "kind": "dir",
+   "files": 129,
+   "size": 348199865,
+   "latest": 1764042389.8257227,
+   "readme_title": "Supertonic — Lightning Fast, On-Device TTS",
+   "readme_desc": "We provide ready-to-use TTS inference examples across multiple ecosystems:",
+   "main_lang": "Swift",
+   "readme_count": 13,
+   "top_children": [
+    {
+     "n": "supertonic",
+     "f": 128,
+     "s": 348185819
+    },
+    {
+     "n": "英文.txt",
+     "f": 1,
+     "s": 14046
+    }
+   ]
+  },
+  {
+   "name": "251230M2.1",
+   "kind": "dir",
+   "files": 2,
+   "size": 16735,
+   "latest": 1767090823.8597612,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "Python",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "disk_analyzer.py",
+     "f": 1,
+     "s": 11464
+    },
+    {
+     "n": "disk_analysis_report.md",
+     "f": 1,
+     "s": 5271
+    }
+   ]
+  },
+  {
+   "name": "251231skill",
+   "kind": "dir",
+   "files": 0,
+   "size": 0,
+   "latest": 0.0,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": []
+  },
+  {
+   "name": "25_200wTokenTest",
+   "kind": "dir",
+   "files": 186,
+   "size": 515855874,
+   "latest": 1758015178.9840243,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "rock_type_classifier",
+     "f": 80,
+     "s": 321791419
+    },
+    {
+     "n": "processed_train_v7.csv",
+     "f": 1,
+     "s": 78749557
+    },
+    {
+     "n": "processed_train_v3.csv",
+     "f": 1,
+     "s": 34614697
+    },
+    {
+     "n": "processed_train_v2.csv",
+     "f": 1,
+     "s": 30885574
+    },
+    {
+     "n": "processed_val_v7.csv",
+     "f": 1,
+     "s": 16783896
+    },
+    {
+     "n": "ensemble_meta_v4.pkl",
+     "f": 1,
+     "s": 12950065
+    }
+   ]
+  },
+  {
+   "name": "2603amd比赛",
+   "kind": "dir",
+   "files": 353,
+   "size": 18790638,
+   "latest": 1775698630.325102,
+   "readme_title": "MXFP4 Mixture-of-Experts (MoE) Fused Kernel",
+   "readme_desc": "Implement a DeepSeek-R1 style MXFP4 Mixture-of-Experts (MoE) fused kernel optimized for AMD Instinct MI355X GP",
+   "main_lang": "Python",
+   "readme_count": 3,
+   "top_children": [
+    {
+     "n": "profile_20260329_092638_run0.zip",
+     "f": 1,
+     "s": 7931796
+    },
+    {
+     "n": "popcorn-cli.exe",
+     "f": 1,
+     "s": 6734336
+    },
+    {
+     "n": "popcorn-cli-windows.zip",
+     "f": 1,
+     "s": 2639545
+    },
+    {
+     "n": "reference-kernels",
+     "f": 234,
+     "s": 805311
+    },
+    {
+     "n": "popcorn-cli",
+     "f": 35,
+     "s": 275827
+    },
+    {
+     "n": "moe_optimization_backup",
+     "f": 7,
+     "s": 49480
+    }
+   ]
+  },
+  {
+   "name": "26黄总比赛",
+   "kind": "dir",
+   "files": 1,
+   "size": 14784,
+   "latest": 1774795368.5655274,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "Markdown",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "比赛详情.md",
+     "f": 1,
+     "s": 14784
+    }
+   ]
+  },
+  {
+   "name": "_github_homepage",
+   "kind": "dir",
+   "files": 27,
+   "size": 725470,
+   "latest": 1789909184.2374294,
+   "readme_title": "AI_Projects 探险手记",
+   "readme_desc": "D 盘那个 AI 项目文件夹，两年攒了 **149 个项目**。周末闲着没事翻了一遍，顺手做了个数据画像，记在这里。",
+   "main_lang": "Python",
+   "readme_count": 2,
+   "top_children": [
+    {
+     "n": "explore",
+     "f": 8,
+     "s": 326176
+    },
+    {
+     "n": "analysis.json",
+     "f": 1,
+     "s": 133129
+    },
+    {
+     "n": "scan_result.json",
+     "f": 1,
+     "s": 125947
+    },
+    {
+     "n": "dashboard_data.json",
+     "f": 1,
+     "s": 25001
+    },
+    {
+     "n": "build_dashboard_v2.py",
+     "f": 1,
+     "s": 21908
+    },
+    {
+     "n": "all_items.txt",
+     "f": 1,
+     "s": 15185
+    }
+   ]
+  },
+  {
+   "name": "_github_publish",
+   "kind": "dir",
+   "files": 3,
+   "size": 53381,
+   "latest": 1789318431.8179877,
+   "readme_title": "懿笑倾城直播转文字 Skill (yixiao-live-transcribe)",
+   "readme_desc": "把「懿笑倾城/释放法直播回放」从**原始视频或已有文字稿**整理成**用户认可的成品**的完整流水线。",
+   "main_lang": "Python",
+   "readme_count": 1,
+   "top_children": [
+    {
+     "n": "yixiao-live-transcribe",
+     "f": 3,
+     "s": 53381
+    }
+   ]
+  },
+  {
+   "name": "_scratch-regression4.log",
+   "kind": "file",
+   "files": 1,
+   "size": 4781,
+   "latest": 1789669140.3616686,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "文件",
+   "readme_count": 0,
+   "top_children": []
+  },
+  {
+   "name": "AI互动小说",
+   "kind": "dir",
+   "files": 343,
+   "size": 3970287,
+   "latest": 1762778991.2981434,
+   "readme_title": "Welcome to Your Miaoda Project",
+   "readme_desc": "Miaoda Application Link URL",
+   "main_lang": "TypeScript",
+   "readme_count": 3,
+   "top_children": [
+    {
+     "n": "迁移后的Gradio应用",
+     "f": 174,
+     "s": 1981012
+    },
+    {
+     "n": "秒哒AI游戏代码",
+     "f": 164,
+     "s": 1966232
+    },
+    {
+     "n": "互动小说游戏设计.txt",
+     "f": 1,
+     "s": 12600
+    },
+    {
+     "n": "IFLOW.md",
+     "f": 1,
+     "s": 4763
+    },
+    {
+     "n": "迁移完成总结.md",
+     "f": 1,
+     "s": 3264
+    },
+    {
+     "n": "魔搭API示例.txt",
+     "f": 1,
+     "s": 1924
+    }
+   ]
+  },
+  {
+   "name": "AI分镜拆解",
+   "kind": "dir",
+   "files": 180,
+   "size": 1764306937,
+   "latest": 1764424457.0541298,
+   "readme_title": "中文输入法问题解决方案",
+   "readme_desc": "当中国用户使用中文输入法时，pygame游戏中的WASD或方向键控制会失效。",
+   "main_lang": "其他",
+   "readme_count": 1,
+   "top_children": [
+    {
+     "n": "0520",
+     "f": 5,
+     "s": 418416125
+    },
+    {
+     "n": "圣多纳释放",
+     "f": 4,
+     "s": 296988352
+    },
+    {
+     "n": "07111626AI自动剪辑测试",
+     "f": 10,
+     "s": 273946103
+    },
+    {
+     "n": "0510",
+     "f": 5,
+     "s": 199791760
+    },
+    {
+     "n": "0528011",
+     "f": 2,
+     "s": 124476185
+    },
+    {
+     "n": "0524",
+     "f": 16,
+     "s": 82225375
+    }
+   ]
+  },
+  {
+   "name": "AI图片0106",
+   "kind": "dir",
+   "files": 13,
+   "size": 5102569,
+   "latest": 1735984647.7636642,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "1e511ca6cc0221746a165bf96fecbce.png",
+     "f": 1,
+     "s": 1083902
+    },
+    {
+     "n": "f3d7c96c-60ba-47c1-afd3-eb7469cf5a53.png",
+     "f": 1,
+     "s": 838843
+    },
+    {
+     "n": "e5b52b8c3560444eacae7ce5bec4ff4e~tplv-5jbd59dj06-image.png",
+     "f": 1,
+     "s": 836180
+    },
+    {
+     "n": "2ed733d9-777a-450e-bf26-bea793dfad0a.png",
+     "f": 1,
+     "s": 758761
+    },
+    {
+     "n": "微信图片_20250104123624.png",
+     "f": 1,
+     "s": 741693
+    },
+    {
+     "n": "5fd34deecbe349ed91bd8cde2af9cfd6~tplv-13w3uml6bg-resize_800_320.png",
+     "f": 1,
+     "s": 302959
+    }
+   ]
+  },
+  {
+   "name": "AI换脸",
+   "kind": "dir",
+   "files": 45,
+   "size": 44532172,
+   "latest": 1733589294.2557821,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "范冰冰.jpg",
+     "f": 1,
+     "s": 19579870
+    },
+    {
+     "n": "1151.jpg",
+     "f": 1,
+     "s": 5319726
+    },
+    {
+     "n": "成组",
+     "f": 7,
+     "s": 3580559
+    },
+    {
+     "n": "4827a92d-9bb0-4362-8367-8b6136f50c3e.png",
+     "f": 1,
+     "s": 1897040
+    },
+    {
+     "n": "test1.png",
+     "f": 1,
+     "s": 1671582
+    },
+    {
+     "n": "1206.png",
+     "f": 1,
+     "s": 1537551
+    }
+   ]
+  },
+  {
+   "name": "AI黑板",
+   "kind": "dir",
+   "files": 8,
+   "size": 681601,
+   "latest": 1786440760.1110704,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "JavaScript",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "lib",
+     "f": 1,
+     "s": 603445
+    },
+    {
+     "n": "js",
+     "f": 5,
+     "s": 62172
+    },
+    {
+     "n": "css",
+     "f": 1,
+     "s": 9334
+    },
+    {
+     "n": "index.html",
+     "f": 1,
+     "s": 6650
+    }
+   ]
+  },
+  {
+   "name": "Anthropic法律资料(1).zip",
+   "kind": "file",
+   "files": 1,
+   "size": 1890244,
+   "latest": 1778731346.9043295,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "文件",
+   "readme_count": 0,
+   "top_children": []
+  },
+  {
+   "name": "antigravityCLI",
+   "kind": "dir",
+   "files": 0,
+   "size": 0,
+   "latest": 0.0,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": []
+  },
+  {
+   "name": "Antigravity反向代理",
+   "kind": "dir",
+   "files": 1,
+   "size": 1340,
+   "latest": 1768386198.360172,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "Antigravity Tools.lnk",
+     "f": 1,
+     "s": 1340
+    }
+   ]
+  },
+  {
+   "name": "AutoGLM",
+   "kind": "dir",
+   "files": 94,
+   "size": 27707007,
+   "latest": 1766312111.0077593,
+   "readme_title": "Open-AutoGLM",
+   "readme_desc": "👋 加入我们的 <a href=\"resources/WECHAT.md\" target=\"_blank\">微信</a> 社区",
+   "main_lang": "Python",
+   "readme_count": 3,
+   "top_children": [
+    {
+     "n": "Open-AutoGLM",
+     "f": 93,
+     "s": 27702388
+    },
+    {
+     "n": "Windows_AutoGLM_安装指南.md",
+     "f": 1,
+     "s": 4619
+    }
+   ]
+  },
+  {
+   "name": "baziK线图",
+   "kind": "dir",
+   "files": 67,
+   "size": 2418657,
+   "latest": 1768644220.5274453,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "Python",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "analysis_result.json",
+     "f": 1,
+     "s": 696451
+    },
+    {
+     "n": "人生K线图.html",
+     "f": 1,
+     "s": 530799
+    },
+    {
+     "n": "人生K线图_更新版.html",
+     "f": 1,
+     "s": 530799
+    },
+    {
+     "n": "问真八字_终极完整版_1768545940863.json",
+     "f": 1,
+     "s": 213091
+    },
+    {
+     "n": "chunks",
+     "f": 49,
+     "s": 177228
+    },
+    {
+     "n": "bazi-kchart.skill",
+     "f": 1,
+     "s": 36113
+    }
+   ]
+  },
+  {
+   "name": "baZitest",
+   "kind": "dir",
+   "files": 0,
+   "size": 0,
+   "latest": 0.0,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "罗家八字分析报告",
+     "f": 0,
+     "s": 0
+    }
+   ]
+  },
+  {
+   "name": "baZi—test",
+   "kind": "dir",
+   "files": 9,
+   "size": 1418355,
+   "latest": 1764607801.4117498,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "Python",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "罗家八字.pdf",
+     "f": 1,
+     "s": 1328825
+    },
+    {
+     "n": "resp_speciale.json",
+     "f": 1,
+     "s": 28732
+    },
+    {
+     "n": "家族命理分析_GPT5high.md",
+     "f": 1,
+     "s": 24206
+    },
+    {
+     "n": "家族命理分析_2026_深度验证版.txt",
+     "f": 1,
+     "s": 11783
+    },
+    {
+     "n": "家族命理分析_gpt5—2026终版.txt",
+     "f": 1,
+     "s": 10819
+    },
+    {
+     "n": "家族命理分析_2026Gemini3.md",
+     "f": 1,
+     "s": 6567
+    }
+   ]
+  },
+  {
+   "name": "bilihong-app",
+   "kind": "dir",
+   "files": 6,
+   "size": 76218,
+   "latest": 1753946434.7803593,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "HTML",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "profile.html",
+     "f": 1,
+     "s": 14973
+    },
+    {
+     "n": "home.html",
+     "f": 1,
+     "s": 13310
+    },
+    {
+     "n": "index.html",
+     "f": 1,
+     "s": 12699
+    },
+    {
+     "n": "create.html",
+     "f": 1,
+     "s": 12185
+    },
+    {
+     "n": "messages.html",
+     "f": 1,
+     "s": 11713
+    },
+    {
+     "n": "video.html",
+     "f": 1,
+     "s": 11338
+    }
+   ]
+  },
+  {
+   "name": "c-coding",
+   "kind": "dir",
+   "files": 2,
+   "size": 107211,
+   "latest": 1787725447.8060691,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "C",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "01-hello",
+     "f": 2,
+     "s": 107211
+    }
+   ]
+  },
+  {
+   "name": "claude-code",
+   "kind": "dir",
+   "files": 10,
+   "size": 11053873,
+   "latest": 1759227506.3550122,
+   "readme_title": "Claude Code",
+   "readme_desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you co",
+   "main_lang": "TypeScript",
+   "readme_count": 1,
+   "top_children": [
+    {
+     "n": "demo.gif",
+     "f": 1,
+     "s": 11002760
+    },
+    {
+     "n": "CHANGELOG.md",
+     "f": 1,
+     "s": 26236
+    },
+    {
+     "n": "scripts",
+     "f": 2,
+     "s": 14583
+    },
+    {
+     "n": "Script",
+     "f": 1,
+     "s": 5319
+    },
+    {
+     "n": "examples",
+     "f": 1,
+     "s": 2078
+    },
+    {
+     "n": "README.md",
+     "f": 1,
+     "s": 2019
+    }
+   ]
+  },
+  {
+   "name": "claude4.7kiro测试",
+   "kind": "dir",
+   "files": 1,
+   "size": 7657,
+   "latest": 1778466338.3599997,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "HTML",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "index.html",
+     "f": 1,
+     "s": 7657
+    }
+   ]
+  },
+  {
+   "name": "claude4.7算命",
+   "kind": "dir",
+   "files": 27,
+   "size": 2067127,
+   "latest": 1779001409.665871,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "Python",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "2026.png",
+     "f": 1,
+     "s": 589374
+    },
+    {
+     "n": "matrix-media-1779001336802-8b8593f3.mp3",
+     "f": 1,
+     "s": 436653
+    },
+    {
+     "n": "matrix-media-1779001409299-897a5ac7.mp3",
+     "f": 1,
+     "s": 398448
+    },
+    {
+     "n": "2024.png",
+     "f": 1,
+     "s": 272808
+    },
+    {
+     "n": "2025.png",
+     "f": 1,
+     "s": 271058
+    },
+    {
+     "n": "qimen.py",
+     "f": 1,
+     "s": 24804
+    }
+   ]
+  },
+  {
+   "name": "claudecode泄露源码",
+   "kind": "dir",
+   "files": 6015,
+   "size": 88269787,
+   "latest": 1775225536.720465,
+   "readme_title": "Claude Code — Leaked Source (2026-03-31)",
+   "readme_desc": "The source map file in the published npm package contained a reference to the full, unobfuscated TypeScript so",
+   "main_lang": "TypeScript",
+   "readme_count": 1,
+   "top_children": [
+    {
+     "n": "claude-code-main",
+     "f": 1903,
+     "s": 30392675
+    },
+    {
+     "n": "src",
+     "f": 1902,
+     "s": 30382832
+    },
+    {
+     "n": "claude-code-2.1.88-泄漏源码(1).zip",
+     "f": 1,
+     "s": 17129184
+    },
+    {
+     "n": "claude-code-泄露源码.zip",
+     "f": 1,
+     "s": 9882861
+    },
+    {
+     "n": "__MACOSX",
+     "f": 2207,
+     "s": 467799
+    },
+    {
+     "n": "security_analysis_report.md",
+     "f": 1,
+     "s": 14436
+    }
+   ]
+  },
+  {
+   "name": "codex测试",
+   "kind": "dir",
+   "files": 14,
+   "size": 81562,
+   "latest": 1773731113.5576956,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "Shell",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "2026世界杯介绍.pptx",
+     "f": 1,
+     "s": 36846
+    },
+    {
+     "n": "2026_world_cup.html",
+     "f": 1,
+     "s": 10407
+    },
+    {
+     "n": "index.html",
+     "f": 1,
+     "s": 7243
+    },
+    {
+     "n": "create_ppt.py",
+     "f": 1,
+     "s": 4713
+    },
+    {
+     "n": "split_upstream_pipeline.sh",
+     "f": 1,
+     "s": 4199
+    },
+    {
+     "n": "upgrade_queue_flush.sh",
+     "f": 1,
+     "s": 4037
+    }
+   ]
+  },
+  {
+   "name": "Coding",
+   "kind": "dir",
+   "files": 11,
+   "size": 47815,
+   "latest": 1746772597.5508764,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "Python",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "index.html",
+     "f": 1,
+     "s": 17181
+    },
+    {
+     "n": "foshan_51.html",
+     "f": 1,
+     "s": 10137
+    },
+    {
+     "n": "processor.py",
+     "f": 1,
+     "s": 4444
+    },
+    {
+     "n": "就业现状分析_2025.md",
+     "f": 1,
+     "s": 4089
+    },
+    {
+     "n": "2025_student_employment_report.md",
+     "f": 1,
+     "s": 3903
+    },
+    {
+     "n": "analyzer.py",
+     "f": 1,
+     "s": 3649
+    }
+   ]
+  },
+  {
+   "name": "coze工作流导出动画1",
+   "kind": "dir",
+   "files": 2,
+   "size": 4195855,
+   "latest": 1745911746.7391667,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "工作流导出1.mp4",
+     "f": 1,
+     "s": 4152745
+    },
+    {
+     "n": "工作流导出1-封面.jpg",
+     "f": 1,
+     "s": 43110
+    }
+   ]
+  },
+  {
+   "name": "DeepSeekHarness",
+   "kind": "dir",
+   "files": 6,
+   "size": 99271136,
+   "latest": 1787151482.9224367,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "case2Excel表格.mp4",
+     "f": 1,
+     "s": 80744462
+    },
+    {
+     "n": "deepseek-作品.mp4",
+     "f": 1,
+     "s": 11952130
+    },
+    {
+     "n": "dsh-harness-demo.mp4",
+     "f": 1,
+     "s": 3914020
+    },
+    {
+     "n": "DSH.mp4",
+     "f": 1,
+     "s": 2643634
+    },
+    {
+     "n": "hexagon-ball",
+     "f": 1,
+     "s": 15506
+    },
+    {
+     "n": "block_potplayer_firewall.bat",
+     "f": 1,
+     "s": 1384
+    }
+   ]
+  },
+  {
+   "name": "deepseekv4",
+   "kind": "dir",
+   "files": 1,
+   "size": 2002,
+   "latest": 1778151356.540841,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "Markdown",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "SPEC.md",
+     "f": 1,
+     "s": 2002
+    },
+    {
+     "n": "C",
+     "f": 0,
+     "s": 0
+    }
+   ]
+  },
+  {
+   "name": "deepseekv4flash正式版",
+   "kind": "dir",
+   "files": 1,
+   "size": 13697,
+   "latest": 1785490864.2886887,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "HTML",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "hexagon-ball.html",
+     "f": 1,
+     "s": 13697
+    }
+   ]
+  },
+  {
+   "name": "DeepSeekv4flash转录视频八字",
+   "kind": "dir",
+   "files": 2,
+   "size": 58233602,
+   "latest": 1785638905.8918371,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "八字看你的第一眼印象 你未来的性格特点 想了解谁就能了解谁！.mp4",
+     "f": 1,
+     "s": 58223124
+    },
+    {
+     "n": "八字性格识人_文稿与知识点梳理.md",
+     "f": 1,
+     "s": 10478
+    }
+   ]
+  },
+  {
+   "name": "deepseekv4前端后端测试",
+   "kind": "dir",
+   "files": 39,
+   "size": 288048,
+   "latest": 1780051385.2592738,
+   "readme_title": "鲜果商城 - 水果管理系统",
+   "readme_desc": "pip install -r requirements.txt",
+   "main_lang": "HTML",
+   "readme_count": 1,
+   "top_children": [
+    {
+     "n": "fruit_mall",
+     "f": 37,
+     "s": 287051
+    },
+    {
+     "n": "UPGRADE_PLAN.md",
+     "f": 1,
+     "s": 808
+    },
+    {
+     "n": "目标.txt",
+     "f": 1,
+     "s": 189
+    }
+   ]
+  },
+  {
+   "name": "DeepSeek转录视频炒股",
+   "kind": "dir",
+   "files": 2,
+   "size": 128959568,
+   "latest": 1785640066.148033,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "北漂青年做量化两年狂赚1500万，极速暴富后人生陷入虚无，差点精神失常，只能靠吃米其林来排忧解难.mp4",
+     "f": 1,
+     "s": 128950247
+    },
+    {
+     "n": "量化投资知识梳理_北漂青年两年赚1500万.md",
+     "f": 1,
+     "s": 9321
+    }
+   ]
+  },
+  {
+   "name": "DouBao_MarsCode",
+   "kind": "dir",
+   "files": 10,
+   "size": 94957,
+   "latest": 1736151478.294778,
+   "readme_title": "易学决策分析应用",
+   "readme_desc": "1. 用户输入咨询问题",
+   "main_lang": "Python",
+   "readme_count": 1,
+   "top_children": [
+    {
+     "n": "gui",
+     "f": 5,
+     "s": 46047
+    },
+    {
+     "n": "test.txt",
+     "f": 1,
+     "s": 38317
+    },
+    {
+     "n": "cozeAPI.md",
+     "f": 1,
+     "s": 4358
+    },
+    {
+     "n": "README.md",
+     "f": 1,
+     "s": 3799
+    },
+    {
+     "n": "test_api.py",
+     "f": 1,
+     "s": 1726
+    },
+    {
+     "n": "main.py",
+     "f": 1,
+     "s": 710
+    }
+   ]
+  },
+  {
+   "name": "DuMate",
+   "kind": "dir",
+   "files": 25,
+   "size": 19776944,
+   "latest": 1774429303.7751338,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "temp_video",
+     "f": 2,
+     "s": 18855926
+    },
+    {
+     "n": "video_notes",
+     "f": 18,
+     "s": 610659
+    },
+    {
+     "n": "毕导_响水不开开水不响_笔记.docx",
+     "f": 1,
+     "s": 261344
+    },
+    {
+     "n": "create_xlsx.py",
+     "f": 1,
+     "s": 21869
+    },
+    {
+     "n": "张雪峰专业避坑与选择决策表.xlsx",
+     "f": 1,
+     "s": 19189
+    },
+    {
+     "n": "package-lock.json",
+     "f": 1,
+     "s": 7908
+    }
+   ]
+  },
+  {
+   "name": "everything-claude-code",
+   "kind": "dir",
+   "files": 1322,
+   "size": 31260808,
+   "latest": 1774262568.049334,
+   "readme_title": "Everything Claude Code",
+   "readme_desc": "10ヶ月以上の集中的な日常使用により、実際のプロダクト構築の過程で進化した、本番環境対応のエージェント、スキル、フック、コマンド、ルール、MCP設定。",
+   "main_lang": "JavaScript",
+   "readme_count": 12,
+   "top_children": [
+    {
+     "n": "assets",
+     "f": 34,
+     "s": 22019114
+    },
+    {
+     "n": "docs",
+     "f": 735,
+     "s": 4753132
+    },
+    {
+     "n": "skills",
+     "f": 170,
+     "s": 1586608
+    },
+    {
+     "n": "tests",
+     "f": 61,
+     "s": 1308967
+    },
+    {
+     "n": "scripts",
+     "f": 112,
+     "s": 642860
+    },
+    {
+     "n": "commands",
+     "f": 60,
+     "s": 246017
+    }
+   ]
+  },
+  {
+   "name": "gemini3.5flash小球",
+   "kind": "dir",
+   "files": 1,
+   "size": 4286,
+   "latest": 1779353441.0471907,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "HTML",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "小球.html",
+     "f": 1,
+     "s": 4286
+    }
+   ]
+  },
+  {
+   "name": "gif录屏",
+   "kind": "dir",
+   "files": 1,
+   "size": 2423296,
+   "latest": 1710352049.4945047,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "Gif123.exe",
+     "f": 1,
+     "s": 2423296
+    }
+   ]
+  },
+  {
+   "name": "github免费API",
+   "kind": "dir",
+   "files": 41,
+   "size": 241638,
+   "latest": 1760577967.485933,
+   "readme_title": "金融学习工具 - 开盘前日报系统",
+   "readme_desc": "直接在浏览器中打开任意HTML文件即可使用，无需安装或配置。",
+   "main_lang": "JavaScript",
+   "readme_count": 1,
+   "top_children": [
+    {
+     "n": "js",
+     "f": 22,
+     "s": 83599
+    },
+    {
+     "n": "daily-brief-v3.html",
+     "f": 1,
+     "s": 15648
+    },
+    {
+     "n": "CONTINUOUS_OPTIMIZATION.md",
+     "f": 1,
+     "s": 14974
+    },
+    {
+     "n": "news-sentiment.html",
+     "f": 1,
+     "s": 14753
+    },
+    {
+     "n": "daily-brief.html",
+     "f": 1,
+     "s": 14452
+    },
+    {
+     "n": "daily-brief-v2.html",
+     "f": 1,
+     "s": 12372
+    }
+   ]
+  },
+  {
+   "name": "Hermes Agent",
+   "kind": "dir",
+   "files": 7870,
+   "size": 457161927,
+   "latest": 1778997076.197059,
+   "readme_title": "Hermes Agent ☤",
+   "readme_desc": "Use any model you want — [Nous Portal](https://portal.nousresearch.com), [OpenRouter](https://openrouter.ai) (",
+   "main_lang": "C",
+   "readme_count": 5,
+   "top_children": [
+    {
+     "n": "hermes-config",
+     "f": 7865,
+     "s": 457123427
+    },
+    {
+     "n": "hermes股市系统改造方案.md",
+     "f": 1,
+     "s": 12012
+    },
+    {
+     "n": "hermes架构优化方案.md",
+     "f": 1,
+     "s": 11958
+    },
+    {
+     "n": "hermes评估报告.md",
+     "f": 1,
+     "s": 9452
+    },
+    {
+     "n": "hermes飞书使用评估.md",
+     "f": 1,
+     "s": 4937
+    },
+    {
+     "n": "提示.txt",
+     "f": 1,
+     "s": 141
+    }
+   ]
+  },
+  {
+   "name": "homework_app",
+   "kind": "dir",
+   "files": 2,
+   "size": 778,
+   "latest": 1778289259.633771,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "Python",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "screenshot.ps1",
+     "f": 1,
+     "s": 583
+    },
+    {
+     "n": "capture.py",
+     "f": 1,
+     "s": 195
+    }
+   ]
+  },
+  {
+   "name": "JEV测试——硬盘体检",
+   "kind": "dir",
+   "files": 139,
+   "size": 95332589,
+   "latest": 1789908707.0198014,
+   "readme_title": "AI_Projects 探险手记",
+   "readme_desc": "D 盘那个 AI 项目文件夹，两年攒了 130 个项目。周末闲着没事翻了一遍，顺手做了个数据画像，记在这里。",
+   "main_lang": "其他",
+   "readme_count": 2,
+   "top_children": [
+    {
+     "n": "JEV硬盘体检录屏.mp4",
+     "f": 1,
+     "s": 73416466
+    },
+    {
+     "n": "jev-disk-mvp",
+     "f": 90,
+     "s": 19236974
+    },
+    {
+     "n": "review-2026-09-20",
+     "f": 38,
+     "s": 2493062
+    },
+    {
+     "n": "explore",
+     "f": 6,
+     "s": 174380
+    },
+    {
+     "n": "jev.py",
+     "f": 1,
+     "s": 5828
+    },
+    {
+     "n": "切换到本工作空间-操作单.md",
+     "f": 1,
+     "s": 2654
+    }
+   ]
+  },
+  {
+   "name": "logs",
+   "kind": "dir",
+   "files": 2,
+   "size": 152559,
+   "latest": 1758076856.6909173,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "oneapi-20250916195942.log",
+     "f": 1,
+     "s": 135514
+    },
+    {
+     "n": "oneapi-20250917103210.log",
+     "f": 1,
+     "s": 17045
+    }
+   ]
+  },
+  {
+   "name": "Longcat2601",
+   "kind": "dir",
+   "files": 4,
+   "size": 76869,
+   "latest": 1768704248.8238263,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "HTML",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "大鱼吃小鱼联网",
+     "f": 2,
+     "s": 42115
+    },
+    {
+     "n": "猫猫狗狗网站.html",
+     "f": 1,
+     "s": 29877
+    },
+    {
+     "n": "大鱼吃小鱼",
+     "f": 1,
+     "s": 4877
+    }
+   ]
+  },
+  {
+   "name": "LongCat_test",
+   "kind": "dir",
+   "files": 32,
+   "size": 161573712,
+   "latest": 1758735420.1923738,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "LiveCodebench—test6.jsonl",
+     "f": 1,
+     "s": 134303240
+    },
+    {
+     "n": "袋鼠大佬写大模型的文章",
+     "f": 10,
+     "s": 20645991
+    },
+    {
+     "n": "tech_report.pdf",
+     "f": 1,
+     "s": 3075991
+    },
+    {
+     "n": "LongCat-Flash-Thinking体验.pdf",
+     "f": 1,
+     "s": 2179358
+    },
+    {
+     "n": "Thinking-Brief.docx",
+     "f": 1,
+     "s": 580991
+    },
+    {
+     "n": "Thinking-Brief.pdf",
+     "f": 1,
+     "s": 315243
+    }
+   ]
+  },
+  {
+   "name": "M2.1springboot",
+   "kind": "dir",
+   "files": 23,
+   "size": 51031,
+   "latest": 1766571672.631594,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "Java",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "src",
+     "f": 21,
+     "s": 46584
+    },
+    {
+     "n": "pom.xml",
+     "f": 1,
+     "s": 3789
+    },
+    {
+     "n": "任务.txt",
+     "f": 1,
+     "s": 658
+    }
+   ]
+  },
+  {
+   "name": "M2.1test",
+   "kind": "dir",
+   "files": 23,
+   "size": 167955,
+   "latest": 1766570932.8600044,
+   "readme_title": "手机电脑遥控器",
+   "readme_desc": "用Android手机控制Windows电脑，实现PPT翻页、视频播放控制（暂停/播放）、音量调节。",
+   "main_lang": "其他",
+   "readme_count": 1,
+   "top_children": [
+    {
+     "n": "clash_of_clans_scene.html",
+     "f": 1,
+     "s": 41993
+    },
+    {
+     "n": "clash_3d.html",
+     "f": 1,
+     "s": 35706
+    },
+    {
+     "n": "spring_festival_2026.html",
+     "f": 1,
+     "s": 16938
+    },
+    {
+     "n": "christmas_scene.html",
+     "f": 1,
+     "s": 16246
+    },
+    {
+     "n": "christmas_scene.svg",
+     "f": 1,
+     "s": 14272
+    },
+    {
+     "n": "AndroidApp",
+     "f": 11,
+     "s": 13846
+    }
+   ]
+  },
+  {
+   "name": "M2.1八分音符酱复刻",
+   "kind": "dir",
+   "files": 3,
+   "size": 5403,
+   "latest": 1766645540.3290012,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "优化2.txt",
+     "f": 1,
+     "s": 2119
+    },
+    {
+     "n": "优化.txt",
+     "f": 1,
+     "s": 2095
+    },
+    {
+     "n": "任务.txt",
+     "f": 1,
+     "s": 1189
+    }
+   ]
+  },
+  {
+   "name": "M2.1曼陀罗绘画",
+   "kind": "dir",
+   "files": 6,
+   "size": 27870,
+   "latest": 1766638061.6541815,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "HTML",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "index - 副本.html",
+     "f": 1,
+     "s": 11043
+    },
+    {
+     "n": "index.html",
+     "f": 1,
+     "s": 11043
+    },
+    {
+     "n": "优化2.txt",
+     "f": 1,
+     "s": 2678
+    },
+    {
+     "n": "优化3.txt",
+     "f": 1,
+     "s": 1147
+    },
+    {
+     "n": "任务.txt",
+     "f": 1,
+     "s": 1037
+    },
+    {
+     "n": "优化.txt",
+     "f": 1,
+     "s": 922
+    }
+   ]
+  },
+  {
+   "name": "M2.1赛车游戏",
+   "kind": "dir",
+   "files": 2,
+   "size": 7461,
+   "latest": 1766579149.406397,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "报错.txt",
+     "f": 1,
+     "s": 5887
+    },
+    {
+     "n": "任务.txt",
+     "f": 1,
+     "s": 1574
+    }
+   ]
+  },
+  {
+   "name": "m3u8下载器",
+   "kind": "dir",
+   "files": 4,
+   "size": 25049670,
+   "latest": 1770890694.1446066,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "N_m3u8DL-RE.exe",
+     "f": 1,
+     "s": 17357824
+    },
+    {
+     "n": "N_m3u8DL-RE_v0.5.1-beta_win-x64_20251029.zip",
+     "f": 1,
+     "s": 7689440
+    },
+    {
+     "n": "Logs",
+     "f": 1,
+     "s": 1835
+    },
+    {
+     "n": "文档.txt",
+     "f": 1,
+     "s": 571
+    }
+   ]
+  },
+  {
+   "name": "mcp-servers",
+   "kind": "dir",
+   "files": 0,
+   "size": 0,
+   "latest": 0.0,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": []
+  },
+  {
+   "name": "MD2img",
+   "kind": "dir",
+   "files": 13,
+   "size": 18046901,
+   "latest": 1753298212.8156693,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "unpackage",
+     "f": 11,
+     "s": 18022922
+    },
+    {
+     "n": "index.html",
+     "f": 1,
+     "s": 13491
+    },
+    {
+     "n": "manifest.json",
+     "f": 1,
+     "s": 10488
+    },
+    {
+     "n": "css",
+     "f": 0,
+     "s": 0
+    },
+    {
+     "n": "img",
+     "f": 0,
+     "s": 0
+    },
+    {
+     "n": "js",
+     "f": 0,
+     "s": 0
+    }
+   ]
+  },
+  {
+   "name": "mdNoteApp",
+   "kind": "dir",
+   "files": 6,
+   "size": 102680,
+   "latest": 1753280125.4185321,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "JavaScript",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "package-lock.json",
+     "f": 1,
+     "s": 88377
+    },
+    {
+     "n": "index.html",
+     "f": 1,
+     "s": 13105
+    },
+    {
+     "n": "main.js",
+     "f": 1,
+     "s": 602
+    },
+    {
+     "n": "package.json",
+     "f": 1,
+     "s": 499
+    },
+    {
+     "n": ".npmrc",
+     "f": 1,
+     "s": 97
+    },
+    {
+     "n": "preload.js",
+     "f": 1,
+     "s": 0
+    }
+   ]
+  },
+  {
+   "name": "mimo-v2.5-pro",
+   "kind": "dir",
+   "files": 1,
+   "size": 11419,
+   "latest": 1779938643.8693688,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "HTML",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "hexagon-bounce.html",
+     "f": 1,
+     "s": 11419
+    }
+   ]
+  },
+  {
+   "name": "minimaxM2.5test",
+   "kind": "dir",
+   "files": 8,
+   "size": 49592,
+   "latest": 1772356229.2927938,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "cnki-reference-manager",
+     "f": 4,
+     "s": 18134
+    },
+    {
+     "n": "cnki-reference-manager(支持vpn版本).zip",
+     "f": 1,
+     "s": 7951
+    },
+    {
+     "n": "cnki-reference-manager(完美版本).zip",
+     "f": 1,
+     "s": 7927
+    },
+    {
+     "n": "cnki-reference-manager（自动登录问题-重构前备份）.zip",
+     "f": 1,
+     "s": 7795
+    },
+    {
+     "n": "cnki-reference-manager(无标题版本备份).zip",
+     "f": 1,
+     "s": 7785
+    }
+   ]
+  },
+  {
+   "name": "MP3转MP4",
+   "kind": "dir",
+   "files": 0,
+   "size": 0,
+   "latest": 0.0,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": []
+  },
+  {
+   "name": "n8nChinese",
+   "kind": "dir",
+   "files": 0,
+   "size": 0,
+   "latest": 0.0,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": []
+  },
+  {
+   "name": "new_API",
+   "kind": "dir",
+   "files": 0,
+   "size": 0,
+   "latest": 0.0,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": []
+  },
+  {
+   "name": "Obsidian",
+   "kind": "dir",
+   "files": 1,
+   "size": 221,
+   "latest": 1776495886.102798,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "Markdown",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "欢迎.md",
+     "f": 1,
+     "s": 221
+    }
+   ]
+  },
+  {
+   "name": "openclaw",
+   "kind": "dir",
+   "files": 201,
+   "size": 12620312,
+   "latest": 1776051861.857974,
+   "readme_title": "Claude Code Plugins",
+   "readme_desc": "This directory contains some official Claude Code plugins that extend functionality through custom commands, a",
+   "main_lang": "Shell",
+   "readme_count": 4,
+   "top_children": [
+    {
+     "n": "claude-code",
+     "f": 147,
+     "s": 12053136
+    },
+    {
+     "n": "_claude_mem_log.csv",
+     "f": 1,
+     "s": 328164
+    },
+    {
+     "n": "lqj-OpenClaw-skill",
+     "f": 24,
+     "s": 109458
+    },
+    {
+     "n": "self-improving-agent",
+     "f": 12,
+     "s": 56581
+    },
+    {
+     "n": "SKILL.md",
+     "f": 1,
+     "s": 29339
+    },
+    {
+     "n": "backups",
+     "f": 4,
+     "s": 16262
+    }
+   ]
+  },
+  {
+   "name": "opencode",
+   "kind": "dir",
+   "files": 18,
+   "size": 234387,
+   "latest": 1768322678.8721519,
+   "readme_title": "AI算命系统 - 使用说明",
+   "readme_desc": "1. 找到 `ai-fortune-teller.html` 文件",
+   "main_lang": "HTML",
+   "readme_count": 1,
+   "top_children": [
+    {
+     "n": "ai-fortune-teller-v2.html",
+     "f": 1,
+     "s": 108622
+    },
+    {
+     "n": "CODE-VERIFICATION.md",
+     "f": 1,
+     "s": 26436
+    },
+    {
+     "n": "IMPLEMENTATION-COMPLETE.md",
+     "f": 1,
+     "s": 25593
+    },
+    {
+     "n": "scan_results",
+     "f": 4,
+     "s": 15255
+    },
+    {
+     "n": "test-1999-11-08.html",
+     "f": 1,
+     "s": 10390
+    },
+    {
+     "n": "AGENTS.md",
+     "f": 1,
+     "s": 8394
+    }
+   ]
+  },
+  {
+   "name": "Ox测试",
+   "kind": "dir",
+   "files": 1,
+   "size": 13958,
+   "latest": 1787465836.8923535,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "HTML",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "hexagon-ball.html",
+     "f": 1,
+     "s": 13958
+    }
+   ]
+  },
+  {
+   "name": "qwen3.5",
+   "kind": "dir",
+   "files": 2,
+   "size": 16029,
+   "latest": 1771756360.4812784,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "HTML",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "xiaoqiu.html",
+     "f": 1,
+     "s": 11357
+    },
+    {
+     "n": "ball_in_hexagon.html",
+     "f": 1,
+     "s": 4672
+    }
+   ]
+  },
+  {
+   "name": "RSSHub",
+   "kind": "dir",
+   "files": 6897,
+   "size": 20415784,
+   "latest": 1789641457.6828961,
+   "readme_title": "每日财经新闻摘要系统",
+   "readme_desc": "免费订阅 Bloomberg 彭博社和 Reuters 路透社的每日新闻，无需付费、无需 API Key。",
+   "main_lang": "TypeScript",
+   "readme_count": 4,
+   "top_children": [
+    {
+     "n": "lib",
+     "f": 6710,
+     "s": 15529954
+    },
+    {
+     "n": "digests",
+     "f": 18,
+     "s": 1383415
+    },
+    {
+     "n": "review",
+     "f": 9,
+     "s": 1344830
+    },
+    {
+     "n": "archive",
+     "f": 17,
+     "s": 818346
+    },
+    {
+     "n": "pnpm-lock.yaml",
+     "f": 1,
+     "s": 422959
+    },
+    {
+     "n": "pool-cache.json",
+     "f": 1,
+     "s": 81979
+    }
+   ]
+  },
+  {
+   "name": "rust_monitor",
+   "kind": "dir",
+   "files": 7,
+   "size": 36934,
+   "latest": 1766565207.0399604,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "Cargo.lock",
+     "f": 1,
+     "s": 18728
+    },
+    {
+     "n": "src",
+     "f": 1,
+     "s": 14329
+    },
+    {
+     "n": "CLAUDE.md",
+     "f": 1,
+     "s": 1683
+    },
+    {
+     "n": "优化.txt",
+     "f": 1,
+     "s": 1124
+    },
+    {
+     "n": "任务.txt",
+     "f": 1,
+     "s": 926
+    },
+    {
+     "n": "Cargo.toml",
+     "f": 1,
+     "s": 136
+    }
+   ]
+  },
+  {
+   "name": "rust_终端监控",
+   "kind": "dir",
+   "files": 1,
+   "size": 469,
+   "latest": 1766565491.2153344,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "任务.txt",
+     "f": 1,
+     "s": 469
+    }
+   ]
+  },
+  {
+   "name": "skills",
+   "kind": "dir",
+   "files": 969,
+   "size": 30668032,
+   "latest": 1767847391.9223065,
+   "readme_title": "Skills",
+   "readme_desc": "Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performanc",
+   "main_lang": "其他",
+   "readme_count": 4,
+   "top_children": [
+    {
+     "n": "skills",
+     "f": 281,
+     "s": 8725312
+    },
+    {
+     "n": "skills-repo",
+     "f": 281,
+     "s": 8725312
+    },
+    {
+     "n": "skills-main",
+     "f": 278,
+     "s": 8611865
+    },
+    {
+     "n": "skills-main.zip",
+     "f": 1,
+     "s": 3370943
+    },
+    {
+     "n": "Skill_Seekers",
+     "f": 127,
+     "s": 1218988
+    },
+    {
+     "n": "storyboard-converter.zip",
+     "f": 1,
+     "s": 15612
+    }
+   ]
+  },
+  {
+   "name": "step3.7",
+   "kind": "dir",
+   "files": 236,
+   "size": 60868568,
+   "latest": 1781086392.1579618,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "step3.7复刻数学三角函数",
+     "f": 126,
+     "s": 16979875
+    },
+    {
+     "n": "deepseek-作品.mp4",
+     "f": 1,
+     "s": 11952130
+    },
+    {
+     "n": "frames2",
+     "f": 68,
+     "s": 10804791
+    },
+    {
+     "n": "打功夫的熊猫样片.mp4",
+     "f": 1,
+     "s": 7994089
+    },
+    {
+     "n": "step3.7复刻.mp4",
+     "f": 1,
+     "s": 4455824
+    },
+    {
+     "n": "screenshot.png",
+     "f": 1,
+     "s": 1857945
+    }
+   ]
+  },
+  {
+   "name": "stock-monitor",
+   "kind": "dir",
+   "files": 9,
+   "size": 8156283,
+   "latest": 1774356863.845212,
+   "readme_title": "待办事项",
+   "readme_desc": "创建时间：2026-02-04",
+   "main_lang": "Python",
+   "readme_count": 1,
+   "top_children": [
+    {
+     "n": "logs",
+     "f": 1,
+     "s": 8134600
+    },
+    {
+     "n": "monitor.py",
+     "f": 1,
+     "s": 12113
+    },
+    {
+     "n": "stock_monitor.py",
+     "f": 1,
+     "s": 8409
+    },
+    {
+     "n": "config.py",
+     "f": 1,
+     "s": 576
+    },
+    {
+     "n": "README.md",
+     "f": 1,
+     "s": 388
+    },
+    {
+     "n": "requirements.txt",
+     "f": 1,
+     "s": 97
+    }
+   ]
+  },
+  {
+   "name": "test1023",
+   "kind": "dir",
+   "files": 3,
+   "size": 2933,
+   "latest": 1761219889.1411576,
+   "readme_title": "详细文档见https://modelscope.cn/docs/%E5%88%9B%E7%A9%BA%E9%97%B4%E5%8D%A1%E7%89%87",
+   "readme_desc": "domain: #领域：cv/nlp/audio/multi-modal/AutoML",
+   "main_lang": "HTML",
+   "readme_count": 1,
+   "top_children": [
+    {
+     "n": "test_static",
+     "f": 3,
+     "s": 2933
+    }
+   ]
+  },
+  {
+   "name": "zhy",
+   "kind": "dir",
+   "files": 35,
+   "size": 225541209,
+   "latest": 1761803903.686376,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "2025年10月06日 16点18分(2).m4a",
+     "f": 1,
+     "s": 15774356
+    },
+    {
+     "n": "2025年10月17日 17点49分.m4a",
+     "f": 1,
+     "s": 12814417
+    },
+    {
+     "n": "2025年10月06日 21点39分.m4a",
+     "f": 1,
+     "s": 12021950
+    },
+    {
+     "n": "2025年10月18日 15点30分(2).m4a",
+     "f": 1,
+     "s": 11988773
+    },
+    {
+     "n": "2025年10月20日 18点13分(2).m4a",
+     "f": 1,
+     "s": 11566436
+    },
+    {
+     "n": "2025年10月17日 21点09分.m4a",
+     "f": 1,
+     "s": 11039474
+    }
+   ]
+  },
+  {
+   "name": "ZZZZZ杂文件",
+   "kind": "dir",
+   "files": 52,
+   "size": 36997162,
+   "latest": 1766552703.3814034,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "251224还原前备份.zip",
+     "f": 1,
+     "s": 9432657
+    },
+    {
+     "n": "无相.mp4",
+     "f": 1,
+     "s": 4647896
+    },
+    {
+     "n": "claude-code-router-5d53571fe6b4784dfa3d9ca984369a04ec855a44.zip",
+     "f": 1,
+     "s": 4455028
+    },
+    {
+     "n": "b1d4a7980c4ff262bc47d3f125a5fe5.png",
+     "f": 1,
+     "s": 1679380
+    },
+    {
+     "n": "微信图片_20250106221339.png",
+     "f": 1,
+     "s": 1481720
+    },
+    {
+     "n": "微信图片_20250106214539.png",
+     "f": 1,
+     "s": 1345869
+    }
+   ]
+  },
+  {
+   "name": "一泽的WebAcessSkill",
+   "kind": "dir",
+   "files": 15,
+   "size": 86946,
+   "latest": 1774263575.7565284,
+   "readme_title": "A股量化交易系统 (AQS - A-Share Quant System)",
+   "readme_desc": "基于 everything-claude-code 系统开发的A股量化交易框架。",
+   "main_lang": "Python",
+   "readme_count": 2,
+   "top_children": [
+    {
+     "n": "web-access",
+     "f": 8,
+     "s": 45975
+    },
+    {
+     "n": "aqs",
+     "f": 6,
+     "s": 34764
+    },
+    {
+     "n": "fashion_guide.html",
+     "f": 1,
+     "s": 6207
+    }
+   ]
+  },
+  {
+   "name": "中国黄金股市研究",
+   "kind": "dir",
+   "files": 0,
+   "size": 0,
+   "latest": 0.0,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": []
+  },
+  {
+   "name": "修复本地tun网络",
+   "kind": "dir",
+   "files": 2,
+   "size": 99132,
+   "latest": 1768967358.9641173,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "截图.png",
+     "f": 1,
+     "s": 97955
+    },
+    {
+     "n": "task.txt",
+     "f": 1,
+     "s": 1177
+    }
+   ]
+  },
+  {
+   "name": "六爻起卦",
+   "kind": "dir",
+   "files": 6,
+   "size": 203159,
+   "latest": 1763982524.3590102,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "Python",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "get_gua1124Gemini3.py",
+     "f": 1,
+     "s": 36484
+    },
+    {
+     "n": "get_gua0904_2.py",
+     "f": 1,
+     "s": 36317
+    },
+    {
+     "n": "get_gua2.py",
+     "f": 1,
+     "s": 35497
+    },
+    {
+     "n": "get_gua.py",
+     "f": 1,
+     "s": 35484
+    },
+    {
+     "n": "get_gua0904.py",
+     "f": 1,
+     "s": 35151
+    },
+    {
+     "n": "251124coze.py",
+     "f": 1,
+     "s": 24226
+    }
+   ]
+  },
+  {
+   "name": "分镜大师设计文档",
+   "kind": "dir",
+   "files": 3,
+   "size": 55128,
+   "latest": 1778740620.689122,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "Markdown",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "DESIGN.md",
+     "f": 1,
+     "s": 43245
+    },
+    {
+     "n": "API.md",
+     "f": 1,
+     "s": 8786
+    },
+    {
+     "n": "QUICKSTART.md",
+     "f": 1,
+     "s": 3097
+    }
+   ]
+  },
+  {
+   "name": "印占软件",
+   "kind": "dir",
+   "files": 132,
+   "size": 383920628,
+   "latest": 1768453285.4693565,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "jh_full_install",
+     "f": 131,
+     "s": 276815078
+    },
+    {
+     "n": "jh_full_install.zip",
+     "f": 1,
+     "s": 107105550
+    }
+   ]
+  },
+  {
+   "name": "双圆环命理八字奇门紫薇",
+   "kind": "dir",
+   "files": 2848,
+   "size": 208907003,
+   "latest": 1789792287.4998257,
+   "readme_title": "生日 365 · 双环择时盘",
+   "readme_desc": "给一个人定做的一整年择时盘：**365 天，每天一个双环合参盘**（外环 8 方位 + 内环 12 时辰 + 圆心总纲 + 底部择时表），",
+   "main_lang": "其他",
+   "readme_count": 2,
+   "top_children": [
+    {
+     "n": "回滚与归档",
+     "f": 1072,
+     "s": 96253283
+    },
+    {
+     "n": "礼物-阿毅",
+     "f": 890,
+     "s": 52671930
+    },
+    {
+     "n": "我的-千钧",
+     "f": 874,
+     "s": 50268737
+    },
+    {
+     "n": "成品与文档",
+     "f": 6,
+     "s": 9694486
+    },
+    {
+     "n": "审计工具",
+     "f": 4,
+     "s": 16269
+    },
+    {
+     "n": "说明-目录结构.md",
+     "f": 1,
+     "s": 2223
+    }
+   ]
+  },
+  {
+   "name": "双环圆盘八字紫薇六爻奇门",
+   "kind": "dir",
+   "files": 1,
+   "size": 29331386,
+   "latest": 1789098309.5206816,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "QQ20260911-114443-HD.mp4",
+     "f": 1,
+     "s": 29331386
+    }
+   ]
+  },
+  {
+   "name": "可以成功运行的例子",
+   "kind": "dir",
+   "files": 19,
+   "size": 294565,
+   "latest": 1760878631.6823306,
+   "readme_title": "详细文档见https://modelscope.cn/docs/%E5%88%9B%E7%A9%BA%E9%97%B4%E5%8D%A1%E7%89%87",
+   "readme_desc": "domain: #领域：cv/nlp/audio/multi-modal/AutoML",
+   "main_lang": "Python",
+   "readme_count": 2,
+   "top_children": [
+    {
+     "n": "AI_game",
+     "f": 19,
+     "s": 294565
+    }
+   ]
+  },
+  {
+   "name": "台湾竖排文字解读器",
+   "kind": "dir",
+   "files": 3,
+   "size": 12356,
+   "latest": 1771477770.7066722,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "Python",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "tset",
+     "f": 3,
+     "s": 12356
+    }
+   ]
+  },
+  {
+   "name": "大批量蒸馏神学书",
+   "kind": "dir",
+   "files": 196,
+   "size": 49330036,
+   "latest": 1789281514.217252,
+   "readme_title": "大批量蒸馏神学书",
+   "readme_desc": "把 14 本讲\"显化 / 创造现实\"的灵性书（莱斯特×3、内维尔×4、赛斯、与神对话 1–5、杨定一、泽兰德《思移力》，共约 650 万字）做了一次**跨书对比蒸馏**，回答一个问题：",
+   "main_lang": "Python",
+   "readme_count": 1,
+   "top_children": [
+    {
+     "n": "raw_blocks",
+     "f": 21,
+     "s": 14746339
+    },
+    {
+     "n": "raw_backup_1603",
+     "f": 15,
+     "s": 14737067
+    },
+    {
+     "n": "raw",
+     "f": 22,
+     "s": 14712948
+    },
+    {
+     "n": "verified",
+     "f": 7,
+     "s": 1736665
+    },
+    {
+     "n": "out",
+     "f": 11,
+     "s": 1466730
+    },
+    {
+     "n": "notes",
+     "f": 28,
+     "s": 752513
+    }
+   ]
+  },
+  {
+   "name": "天工龙虾SkyClaw",
+   "kind": "dir",
+   "files": 4,
+   "size": 40980341,
+   "latest": 1773736730.2922106,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "case2PPT（10页）.mp4",
+     "f": 1,
+     "s": 24503389
+    },
+    {
+     "n": "case1录屏.mp4",
+     "f": 1,
+     "s": 13713057
+    },
+    {
+     "n": "skywork skills和skyclaw 国内brief.pdf",
+     "f": 1,
+     "s": 1833764
+    },
+    {
+     "n": "PixPin_2026-03-17_10-51-25.gif",
+     "f": 1,
+     "s": 930131
+    }
+   ]
+  },
+  {
+   "name": "好看的",
+   "kind": "dir",
+   "files": 49,
+   "size": 211504823,
+   "latest": 1770824434.417549,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "jimeng-2026-02-11-1404-这个帅哥轻轻摘下耳机，目光轻轻看向操场旁，来加微信的一群青春洋溢的音舞院艺术系学....mp4",
+     "f": 1,
+     "s": 7832215
+    },
+    {
+     "n": "igm-202509171108-[GI8QPOSxgMWbphaLCNe65].png",
+     "f": 1,
+     "s": 4993260
+    },
+    {
+     "n": "igm-202509171107-[V7yLLyApKvkL8SaB4E5qM].png",
+     "f": 1,
+     "s": 4894470
+    },
+    {
+     "n": "igm-202509171112-[EG4mphdeK4s5l8bytKpkG].png",
+     "f": 1,
+     "s": 4885187
+    },
+    {
+     "n": "igm-202509171148-[d5wWWlRKC3R3Z0fknW_7a].png",
+     "f": 1,
+     "s": 4877492
+    },
+    {
+     "n": "igm-202509171111-[G6DmsA4nOgLfzkrhV4CXN].png",
+     "f": 1,
+     "s": 4847545
+    }
+   ]
+  },
+  {
+   "name": "小兔的舞蹈",
+   "kind": "dir",
+   "files": 9,
+   "size": 141497117,
+   "latest": 1780911912.0371392,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "Python",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "19年深圳小兔跳舞.mp4",
+     "f": 1,
+     "s": 74293492
+    },
+    {
+     "n": "印度之韵小兔教学成果.mp4",
+     "f": 1,
+     "s": 67200758
+    },
+    {
+     "n": "step_doc_search.py",
+     "f": 1,
+     "s": 598
+    },
+    {
+     "n": "step_chat_err.py",
+     "f": 1,
+     "s": 566
+    },
+    {
+     "n": "check_step_direct.py",
+     "f": 1,
+     "s": 445
+    },
+    {
+     "n": "bing_links.py",
+     "f": 1,
+     "s": 406
+    }
+   ]
+  },
+  {
+   "name": "小米桌面Agent",
+   "kind": "dir",
+   "files": 6,
+   "size": 512897860,
+   "latest": 1788613759.9287856,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "HTML",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "袋鼠帝AI客栈",
+     "f": 5,
+     "s": 257141500
+    },
+    {
+     "n": "袋鼠帝AI客栈.zip",
+     "f": 1,
+     "s": 255756360
+    }
+   ]
+  },
+  {
+   "name": "并行运行三个Agent截图记录",
+   "kind": "dir",
+   "files": 5,
+   "size": 29409962,
+   "latest": 1778665812.9596436,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "三个并行.gif",
+     "f": 1,
+     "s": 14102739
+    },
+    {
+     "n": "coze+claude code并行.gif",
+     "f": 1,
+     "s": 9816352
+    },
+    {
+     "n": "轻量画质.gif",
+     "f": 1,
+     "s": 2396850
+    },
+    {
+     "n": "全屏.gif",
+     "f": 1,
+     "s": 2237790
+    },
+    {
+     "n": "三个Agent并行.mp4",
+     "f": 1,
+     "s": 856231
+    }
+   ]
+  },
+  {
+   "name": "懿笑倾城0904结营分享会",
+   "kind": "dir",
+   "files": 9,
+   "size": 726032,
+   "latest": 1788581466.165852,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "懿笑倾城0904结营分享会_全文文稿转写原文.txt",
+     "f": 1,
+     "s": 218611
+    },
+    {
+     "n": "懿笑倾城0904结营分享会_文字语言优化版.txt",
+     "f": 1,
+     "s": 212885
+    },
+    {
+     "n": "懿笑倾城0904结营分享会_分享内容梳理.txt",
+     "f": 1,
+     "s": 106037
+    },
+    {
+     "n": "0904结营分享会_逐人分享整理.md",
+     "f": 1,
+     "s": 54883
+    },
+    {
+     "n": "0904结营分享会_逐人分享整理_下篇（第18-35位）.md",
+     "f": 1,
+     "s": 28526
+    },
+    {
+     "n": "0904结营分享会_发布版_下篇（第18-35位）.txt",
+     "f": 1,
+     "s": 27516
+    }
+   ]
+  },
+  {
+   "name": "懿笑倾城0913直播分享会",
+   "kind": "dir",
+   "files": 12,
+   "size": 680734,
+   "latest": 1789318377.0634048,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "0913直播分享会_字幕.srt",
+     "f": 1,
+     "s": 138461
+    },
+    {
+     "n": "0913直播分享会_完整文稿.txt",
+     "f": 1,
+     "s": 119175
+    },
+    {
+     "n": "0913直播分享会P2_完整文稿.txt",
+     "f": 1,
+     "s": 74191
+    },
+    {
+     "n": "0913直播分享会_逐人分享整理.md",
+     "f": 1,
+     "s": 74115
+    },
+    {
+     "n": "准备发布版本.txt",
+     "f": 1,
+     "s": 68340
+    },
+    {
+     "n": "准备发布版本_净化版.txt",
+     "f": 1,
+     "s": 67026
+    }
+   ]
+  },
+  {
+   "name": "懿笑倾城260827结营分享会",
+   "kind": "dir",
+   "files": 6,
+   "size": 392404371,
+   "latest": 1787852882.3706107,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "260827懿笑倾城 释放结营分享会 凤凰和姐姐菜漂分享在最后.mp4",
+     "f": 1,
+     "s": 391917239
+    },
+    {
+     "n": "260827结营分享会_字幕.srt",
+     "f": 1,
+     "s": 213658
+    },
+    {
+     "n": "260827结营分享会_完整文稿.txt",
+     "f": 1,
+     "s": 189407
+    },
+    {
+     "n": "文本.txt",
+     "f": 1,
+     "s": 30480
+    },
+    {
+     "n": "260827结营分享会_逐人分享整理.md",
+     "f": 1,
+     "s": 30245
+    },
+    {
+     "n": "260827结营分享会_小红书版.txt",
+     "f": 1,
+     "s": 23342
+    }
+   ]
+  },
+  {
+   "name": "懿笑倾城9001直播",
+   "kind": "dir",
+   "files": 4,
+   "size": 115370,
+   "latest": 1788278816.8784647,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "懿笑倾城姐姐9.01直播-P1_集体引导释放_全文稿.md",
+     "f": 1,
+     "s": 37448
+    },
+    {
+     "n": "懿笑倾城姐姐9.01直播-P1_原始转写.txt",
+     "f": 1,
+     "s": 34869
+    },
+    {
+     "n": "懿笑倾城姐姐9.01直播-P2_欢乐唠嗑_全文稿.md",
+     "f": 1,
+     "s": 25214
+    },
+    {
+     "n": "懿笑倾城姐姐9.01直播-P2_原始转写.txt",
+     "f": 1,
+     "s": 17839
+    }
+   ]
+  },
+  {
+   "name": "截止26年0108桌面文件",
+   "kind": "dir",
+   "files": 42,
+   "size": 100879469,
+   "latest": 1767862540.4899547,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "0817part2手工改图.zip",
+     "f": 1,
+     "s": 57437880
+    },
+    {
+     "n": "AI攻防改图",
+     "f": 12,
+     "s": 28985055
+    },
+    {
+     "n": "191c69b15a0c53ae15de8e4f4c285e70.png",
+     "f": 1,
+     "s": 2993008
+    },
+    {
+     "n": "研究生＆公务员上岸群_chat.txt",
+     "f": 1,
+     "s": 2882115
+    },
+    {
+     "n": "将文本 'CLASSIC MOJITO' 替换为 'BABY MILKSHAKE'.png",
+     "f": 1,
+     "s": 1943345
+    },
+    {
+     "n": "d7e2ed611f2840cc57e4f665aedf6485.png",
+     "f": 1,
+     "s": 1575039
+    }
+   ]
+  },
+  {
+   "name": "找回环境变量",
+   "kind": "dir",
+   "files": 1,
+   "size": 1182,
+   "latest": 1766582507.118227,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "任务.txt",
+     "f": 1,
+     "s": 1182
+    }
+   ]
+  },
+  {
+   "name": "改作业程序文件夹",
+   "kind": "dir",
+   "files": 2,
+   "size": 38003,
+   "latest": 1778289225.8705595,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "HTML",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "index.html",
+     "f": 1,
+     "s": 37394
+    },
+    {
+     "n": "screenshot.ps1",
+     "f": 1,
+     "s": 609
+    }
+   ]
+  },
+  {
+   "name": "新春秒哒",
+   "kind": "dir",
+   "files": 58,
+   "size": 838864,
+   "latest": 1770728394.4253066,
+   "readme_title": "欢迎使用你的秒哒应用代码包",
+   "readme_desc": "秒哒应用链接",
+   "main_lang": "TypeScript",
+   "readme_count": 1,
+   "top_children": [
+    {
+     "n": "app-9j80awg9uoe9",
+     "f": 57,
+     "s": 469014
+    },
+    {
+     "n": "年夜饭照相机代码.zip",
+     "f": 1,
+     "s": 369850
+    }
+   ]
+  },
+  {
+   "name": "旅游前夕准备open-code",
+   "kind": "dir",
+   "files": 7,
+   "size": 3032138,
+   "latest": 1770118466.0591724,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "HTML",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "screenshot.png",
+     "f": 1,
+     "s": 3022348
+    },
+    {
+     "n": "game.html",
+     "f": 1,
+     "s": 7741
+    },
+    {
+     "n": "run_and_screenshot.py",
+     "f": 1,
+     "s": 661
+    },
+    {
+     "n": "take_screenshot.ps1",
+     "f": 1,
+     "s": 553
+    },
+    {
+     "n": "用OpenCode打开游戏.bat",
+     "f": 1,
+     "s": 489
+    },
+    {
+     "n": "INSTRUCTION.md",
+     "f": 1,
+     "s": 318
+    }
+   ]
+  },
+  {
+   "name": "春节滤镜",
+   "kind": "dir",
+   "files": 5,
+   "size": 3932079,
+   "latest": 1736175710.3739915,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "8e859a4b-2a0a-42a0-a797-b20a5d6aac05.png",
+     "f": 1,
+     "s": 1286784
+    },
+    {
+     "n": "img2cartoon_spring_festival (3).png",
+     "f": 1,
+     "s": 1249379
+    },
+    {
+     "n": "img2cartoon_spring_festival.png",
+     "f": 1,
+     "s": 1205238
+    },
+    {
+     "n": "cc29e86a98c91ea608b241fb62a43f1.jpg",
+     "f": 1,
+     "s": 101362
+    },
+    {
+     "n": "9dfa096d0775c61513c4c3ea81fd8f4.jpg",
+     "f": 1,
+     "s": 89316
+    }
+   ]
+  },
+  {
+   "name": "核聚变比赛",
+   "kind": "dir",
+   "files": 93,
+   "size": 22031605,
+   "latest": 1776311020.9580514,
+   "readme_title": "Fusion Control Competition Environment",
+   "readme_desc": "本目录提供聚变智能控制赛题的本地训练与仿真测试环境。高保真仿真器（HFM）以 Docker 形式封装，Python 环境通过 socket 与仿真器通信，并对选手暴露 Gymnasium 风格接口。核心特点是：",
+   "main_lang": "Python",
+   "readme_count": 3,
+   "top_children": [
+    {
+     "n": "题目下载数据",
+     "f": 73,
+     "s": 21451990
+    },
+    {
+     "n": "题目目前已经有的提交submission",
+     "f": 18,
+     "s": 563738
+    },
+    {
+     "n": "index.html",
+     "f": 1,
+     "s": 15610
+    },
+    {
+     "n": "比赛流程.txt",
+     "f": 1,
+     "s": 267
+    },
+    {
+     "n": "submission",
+     "f": 0,
+     "s": 0
+    }
+   ]
+  },
+  {
+   "name": "梵公子经验",
+   "kind": "dir",
+   "files": 15,
+   "size": 138258283,
+   "latest": 1787827758.0939538,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "不懂女人的长期相处模式，早晚被绿！.mp4",
+     "f": 1,
+     "s": 138202378
+    },
+    {
+     "n": "蒸馏",
+     "f": 14,
+     "s": 55905
+    }
+   ]
+  },
+  {
+   "name": "毕设研究",
+   "kind": "dir",
+   "files": 2,
+   "size": 311855,
+   "latest": 1769701766.122165,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "02ef026a-ee7f-4a1c-b466-9eceb5db12b7.png",
+     "f": 1,
+     "s": 272808
+    },
+    {
+     "n": "命理分析报告_案例22.md",
+     "f": 1,
+     "s": 39047
+    },
+    {
+     "n": "newFolders0320",
+     "f": 0,
+     "s": 0
+    }
+   ]
+  },
+  {
+   "name": "爬取小说",
+   "kind": "dir",
+   "files": 4,
+   "size": 118379,
+   "latest": 1762425771.3413703,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "HTML",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "新手抖s学妹的物化调教.txt",
+     "f": 1,
+     "s": 89452
+    },
+    {
+     "n": "debug_page.html",
+     "f": 1,
+     "s": 25111
+    },
+    {
+     "n": "novels.py",
+     "f": 1,
+     "s": 3755
+    },
+    {
+     "n": "小说-抓取成功.txt",
+     "f": 1,
+     "s": 61
+    }
+   ]
+  },
+  {
+   "name": "爬问真八字",
+   "kind": "dir",
+   "files": 71,
+   "size": 118139876,
+   "latest": 1769011015.4323964,
+   "readme_title": "Destiny Matrix Dashboard",
+   "readme_desc": "A high-aesthetic, interactive visualization engine for Bazi (Chinese Astrology) life data.",
+   "main_lang": "TypeScript",
+   "readme_count": 3,
+   "top_children": [
+    {
+     "n": "好看的八字页面备份2.zip",
+     "f": 1,
+     "s": 55738375
+    },
+    {
+     "n": "好看的八字前端页面备份.zip",
+     "f": 1,
+     "s": 55733555
+    },
+    {
+     "n": "demo_preview.mp4",
+     "f": 1,
+     "s": 2585444
+    },
+    {
+     "n": "destiny-dashboard",
+     "f": 44,
+     "s": 465483
+    },
+    {
+     "n": "微信图片_20260116111844_523_472.png",
+     "f": 1,
+     "s": 444516
+    },
+    {
+     "n": "微信图片_20260116111622_520_472.png",
+     "f": 1,
+     "s": 434304
+    }
+   ]
+  },
+  {
+   "name": "璞嗗寘Test",
+   "kind": "dir",
+   "files": 5,
+   "size": 107246,
+   "latest": 1787466592.0715837,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "JavaScript",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "tarot",
+     "f": 5,
+     "s": 107246
+    },
+    {
+     "n": "dsh-portable",
+     "f": 0,
+     "s": 0
+    }
+   ]
+  },
+  {
+   "name": "甘总头像",
+   "kind": "dir",
+   "files": 10,
+   "size": 12666030,
+   "latest": 1736530229.0593112,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "snake_festival_TouXiang (5).png",
+     "f": 1,
+     "s": 1585859
+    },
+    {
+     "n": "e60dbd53-f587-4b97-90b8-1cb359093b3f.png",
+     "f": 1,
+     "s": 1567200
+    },
+    {
+     "n": "56a527d8-5612-4d8d-92ee-8dd99904400d.png",
+     "f": 1,
+     "s": 1519497
+    },
+    {
+     "n": "snake_festival_TouXiang (4).png",
+     "f": 1,
+     "s": 1458521
+    },
+    {
+     "n": "snake_festival_TouXiang (7).png",
+     "f": 1,
+     "s": 1323517
+    },
+    {
+     "n": "snake_festival_TouXiang (8).png",
+     "f": 1,
+     "s": 1311577
+    }
+   ]
+  },
+  {
+   "name": "算命提示词优化",
+   "kind": "dir",
+   "files": 9,
+   "size": 150043,
+   "latest": 1786382735.3637156,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "HTML",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "mingli-flow-workbench.html",
+     "f": 1,
+     "s": 60592
+    },
+    {
+     "n": "sihe-chart.json",
+     "f": 1,
+     "s": 23116
+    },
+    {
+     "n": "sihe-chart-tuziji.json",
+     "f": 1,
+     "s": 22547
+    },
+    {
+     "n": "deliverable-tuziji-v2.md",
+     "f": 1,
+     "s": 8967
+    },
+    {
+     "n": "deliverable-v2.md",
+     "f": 1,
+     "s": 8187
+    },
+    {
+     "n": "deliverable-tuziji-v1.md",
+     "f": 1,
+     "s": 7950
+    }
+   ]
+  },
+  {
+   "name": "老金的元Agent架构",
+   "kind": "dir",
+   "files": 260,
+   "size": 3890420,
+   "latest": 1777440275.799163,
+   "readme_title": "概要",
+   "readme_desc": "たとえば Claude Code、Codex、OpenClaw、Cursor は、コードを書いたりファイルを編集したりする「手」にはなれます。しかし、何を先に直すのか、誰がレビューするのか、どこで止めるのか、修正が本当に",
+   "main_lang": "JavaScript",
+   "readme_count": 4,
+   "top_children": [
+    {
+     "n": "Meta_Kim",
+     "f": 260,
+     "s": 3890420
+    }
+   ]
+  },
+  {
+   "name": "耳机检测",
+   "kind": "dir",
+   "files": 2,
+   "size": 5742,
+   "latest": 1775532745.7950966,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "PowerShell",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "cleanup_mouse.ps1",
+     "f": 1,
+     "s": 3818
+    },
+    {
+     "n": "fix_mouse.ps1",
+     "f": 1,
+     "s": 1924
+    }
+   ]
+  },
+  {
+   "name": "耳機检测",
+   "kind": "dir",
+   "files": 2,
+   "size": 4300,
+   "latest": 1775532860.034552,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "PowerShell",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "timer_check.ps1",
+     "f": 1,
+     "s": 2307
+    },
+    {
+     "n": "fix_mouse.ps1",
+     "f": 1,
+     "s": 1993
+    }
+   ]
+  },
+  {
+   "name": "胖东来三轮大清洗视频AI处理",
+   "kind": "dir",
+   "files": 4,
+   "size": 105471210,
+   "latest": 1785390408.713807,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "三轮大清洗：于东来如何打掉干部特权？.mp4",
+     "f": 1,
+     "s": 72055095
+    },
+    {
+     "n": "temp_audio.wav",
+     "f": 1,
+     "s": 30928974
+    },
+    {
+     "n": "ChatGPT Image 2026年7月28日 10_42_40.png",
+     "f": 1,
+     "s": 2465340
+    },
+    {
+     "n": "胖东来视频gemini出的逐字稿和绘图.txt",
+     "f": 1,
+     "s": 21801
+    }
+   ]
+  },
+  {
+   "name": "腾讯Marvis",
+   "kind": "dir",
+   "files": 15,
+   "size": 62331622,
+   "latest": 1782282486.1475196,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "Marvis世界杯冠军预测Excel表格录屏.mp4",
+     "f": 1,
+     "s": 30003637
+    },
+    {
+     "n": "展示自带的各个Agent的动态图.gif",
+     "f": 1,
+     "s": 18449318
+    },
+    {
+     "n": "marvis_7fe11df3bcd16c1e.exe",
+     "f": 1,
+     "s": 8686640
+    },
+    {
+     "n": "工作过程动态图.gif",
+     "f": 1,
+     "s": 2888488
+    },
+    {
+     "n": "2021建模赛题",
+     "f": 10,
+     "s": 2279073
+    },
+    {
+     "n": "2026世界杯预测报告.xlsx",
+     "f": 1,
+     "s": 24466
+    }
+   ]
+  },
+  {
+   "name": "苏苏cow-coze",
+   "kind": "dir",
+   "files": 2,
+   "size": 9080,
+   "latest": 1734240726.7916822,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "核弹销售客服培训手册(1).txt",
+     "f": 1,
+     "s": 5208
+    },
+    {
+     "n": "核弹销售客服培训手册.txt",
+     "f": 1,
+     "s": 3872
+    }
+   ]
+  },
+  {
+   "name": "英语试卷作文拍照",
+   "kind": "dir",
+   "files": 10,
+   "size": 7100204,
+   "latest": 1718117844.9764054,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "2.jpg",
+     "f": 1,
+     "s": 1924013
+    },
+    {
+     "n": "1.jpg",
+     "f": 1,
+     "s": 1721555
+    },
+    {
+     "n": "5.jpg",
+     "f": 1,
+     "s": 1553007
+    },
+    {
+     "n": "3.jpg",
+     "f": 1,
+     "s": 1272365
+    },
+    {
+     "n": "4.jpg",
+     "f": 1,
+     "s": 619118
+    },
+    {
+     "n": "新建文本文档1.txt",
+     "f": 1,
+     "s": 3117
+    }
+   ]
+  },
+  {
+   "name": "豆包Test",
+   "kind": "dir",
+   "files": 11470,
+   "size": 5937954089,
+   "latest": 1787101480.2491,
+   "readme_title": "Bilingual-pair consistency record (docs/i18n/README.md): the git blob hash of each",
+   "readme_desc": "README.md: 8a4bd01332a23ce4144c661784bc549e0ba72d21",
+   "main_lang": "TypeScript",
+   "readme_count": 3,
+   "top_children": [
+    {
+     "n": "豆包test_260816",
+     "f": 47,
+     "s": 1484596514
+    },
+    {
+     "n": "荒野大镖客2调整游戏设置录屏.mp4",
+     "f": 1,
+     "s": 1391011068
+    },
+    {
+     "n": "dsh一键启动包录屏1.mp4",
+     "f": 1,
+     "s": 1254190373
+    },
+    {
+     "n": "豆包test_260816.zip",
+     "f": 1,
+     "s": 733519172
+    },
+    {
+     "n": "dsh便携版测试",
+     "f": 136,
+     "s": 619391617
+    },
+    {
+     "n": "dsh-build",
+     "f": 11238,
+     "s": 170838395
+    }
+   ]
+  },
+  {
+   "name": "豆包做的高速发展历程",
+   "kind": "dir",
+   "files": 1,
+   "size": 795247,
+   "latest": 1787023232.0110672,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "HTML",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "index.html",
+     "f": 1,
+     "s": 795247
+    }
+   ]
+  },
+  {
+   "name": "迁移系统",
+   "kind": "dir",
+   "files": 9,
+   "size": 123202,
+   "latest": 1774152570.6441255,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "Batch",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "mouse_diagnostics_log.csv",
+     "f": 1,
+     "s": 73042
+    },
+    {
+     "n": "mouse_diagnostics.py",
+     "f": 1,
+     "s": 19562
+    },
+    {
+     "n": "ssd_safe_copy_gui.py",
+     "f": 1,
+     "s": 14726
+    },
+    {
+     "n": "mouse_power_backups",
+     "f": 1,
+     "s": 11798
+    },
+    {
+     "n": "fix_mouse_power_management.ps1",
+     "f": 1,
+     "s": 1891
+    },
+    {
+     "n": "usb_ssd_fix_admin.cmd",
+     "f": 1,
+     "s": 1639
+    }
+   ]
+  },
+  {
+   "name": "释放法软件",
+   "kind": "dir",
+   "files": 0,
+   "size": 0,
+   "latest": 0.0,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": []
+  },
+  {
+   "name": "钟慧瑜的教学函数动画代码",
+   "kind": "dir",
+   "files": 13,
+   "size": 2837738,
+   "latest": 1744646473.2409427,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "HTML",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "函数奇偶性的动态说明（新），四个文件.mp4",
+     "f": 1,
+     "s": 2589645
+    },
+    {
+     "n": "code (6).html",
+     "f": 1,
+     "s": 31805
+    },
+    {
+     "n": "函数的奇偶性【公开课】【高中数学优质课】【大赛一等奖】【有课件教案】刘瑞雪_字幕.txt",
+     "f": 1,
+     "s": 24700
+    },
+    {
+     "n": "code (8).html",
+     "f": 1,
+     "s": 22176
+    },
+    {
+     "n": "后两个函数.html",
+     "f": 1,
+     "s": 22176
+    },
+    {
+     "n": "前两个函数.html",
+     "f": 1,
+     "s": 21945
+    }
+   ]
+  },
+  {
+   "name": "铃芽之旅音频hook",
+   "kind": "dir",
+   "files": 3,
+   "size": 4009401,
+   "latest": 1778941836.8652291,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "PowerShell",
+   "readme_count": 0,
+   "top_children": [
+    {
+     "n": "ringtone.wav",
+     "f": 1,
+     "s": 4008514
+    },
+    {
+     "n": "notify.ps1",
+     "f": 1,
+     "s": 481
+    },
+    {
+     "n": "test-sound.ps1",
+     "f": 1,
+     "s": 406
+    }
+   ]
+  },
+  {
+   "name": "预测世界杯",
+   "kind": "dir",
+   "files": 0,
+   "size": 0,
+   "latest": 0.0,
+   "readme_title": null,
+   "readme_desc": null,
+   "main_lang": "其他",
+   "readme_count": 0,
+   "top_children": []
+  },
+  {
+   "name": "魔搭api",
+   "kind": "dir",
+   "files": 85,
+   "size": 7602418,
+   "latest": 1762779616.8047826,
+   "readme_title": "Gemini 2.5 Pro API 项目",
+   "readme_desc": "这是一个完整的 Gemini 2.5 Pro API 集成项目，包含 Jupyter Notebook 测试、Flask 后端服务器和四个 Web 界面（文本生成、视频分析、图像编辑和 API 配置）。图像编辑功能已集成",
+   "main_lang": "Python",
+   "readme_count": 1,
+   "top_children": [
+    {
+     "n": "official_input.png",
+     "f": 1,
+     "s": 1829742
+    },
+    {
+     "n": "图片素材",
+     "f": 2,
+     "s": 1752461
+    },
+    {
+     "n": "uploads",
+     "f": 1,
+     "s": 860559
+    },
+    {
+     "n": "test_result_nanana.png",
+     "f": 1,
+     "s": 776204
+    },
+    {
+     "n": "test_video.mp4",
+     "f": 1,
+     "s": 587039
+    },
+    {
+     "n": "test_backend_result_1.png",
+     "f": 1,
+     "s": 92264
+    }
+   ]
+  },
+  {
+   "name": "魔搭游戏工具",
+   "kind": "dir",
+   "files": 116,
+   "size": 578276,
+   "latest": 1765280663.3954825,
+   "readme_title": "详细文档见https://modelscope.cn/docs/%E5%88%9B%E7%A9%BA%E9%97%B4%E5%8D%A1%E7%89%87",
+   "readme_desc": "domain: #领域：cv/nlp/audio/multi-modal/AutoML",
+   "main_lang": "TypeScript",
+   "readme_count": 1,
+   "top_children": [
+    {
+     "n": "3D-Creator",
+     "f": 116,
+     "s": 578276
+    }
+   ]
+  }
+ ],
+ "scanned_at": "2026-09-20 20:59:44",
+ "elapsed_s": 0.4
+}

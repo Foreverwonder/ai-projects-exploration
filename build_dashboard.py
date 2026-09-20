@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 """生成 AI_Projects 探险手记 HTML。读取 dashboard_data.json，输出自包含单文件看板。
 风格：日常记录感，不是简历。数据随扫描自动更新。"""
-import json, datetime, html, math, re, statistics
+import json, datetime, html, math, re, statistics, os
 from collections import Counter, defaultdict
 
-data = json.load(open(r"C:\Users\71976\WorkBuddy\2026-08-11-23-35-59\dashboard_data.json", encoding="utf-8"))
+data = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "dashboard_data.json"), encoding="utf-8"))
 projs = sorted(data["projects"], key=lambda p: -p["mb"])
 cats = data["categories"]
 tl = data["timeline"]
@@ -51,7 +51,7 @@ for y in years:
     year_html += f'''<div class="hbar-row"><div class="hbar-label">{y} 年</div><div class="hbar-track"><div class="hbar-fill" style="width:{w}%;background:#7c3aed"></div></div><div class="hbar-val">{n}</div></div>'''
 
 # ---- 新增角度 2：最近 90 天还在动的项目 ----
-NOW = datetime.datetime(2026, 8, 11).timestamp()
+NOW = datetime.datetime(2026, 9, 20).timestamp()
 recent = [p for p in projs if p["m"] and NOW - p["m"] < 90 * 86400]
 recent_sorted = sorted(recent, key=lambda p: -p["m"])
 recent_html = "".join(
@@ -170,11 +170,11 @@ model_words = ["deepseek", "claude", "minimax", "mimo", "qwen", "gemini", "longc
 model_hits = [p["n"] for p in projs if any(w in p["n"].lower() for w in model_words)]
 
 facts = [
-    ("👑", "空间之王", f"「{top['n']}」现在占 {fmt_mb(top['mb'])}，约全部空间的 {top_pct}% —— 之前 46GB 的核聚变比赛删掉之后，它上位了"),
+    ("👑", "空间之王", f"「{top['n']}」现在占 {fmt_mb(top['mb'])}，一个人顶掉了全部空间的 {top_pct}%"),
     ("📅", "两年发力", f"{N} 个项目里，{yr_counter.get(2025,0)} 个落在 2025 年、{yr_counter.get(2026,0)} 个落在 2026 年 —— 大部分都是这两年折腾出来的"),
-    ("🧪", "小实验体质", f"130 个项目的中位数只有 {fmt_mb(median_mb)}，平均却有 {fmt_mb(total_mb/N)} —— 一堆小实验，偶尔憋个大的"),
+    ("🧪", "小实验体质", f"{N} 个项目的中位数只有 {fmt_mb(median_mb)}，平均却有 {fmt_mb(total_mb/N)} —— 一堆小实验，偶尔憋个大的"),
     ("🕐", "深夜收工", f"最后修改时间分布在 {peak_hour} 点最集中，0 点到 2 点之间收尾的项目有 {night_count} 个 —— 懂的都懂"),
-    ("🔮", "玄学浓度", "9 个命理项目：八字、六爻、印占、算命提示词……AI 时代照样给老祖宗打工"),
+    ("🔮", "玄学浓度", f"{cats.get(chr(21629)+chr(29702)+chr(29572)+chr(23398),{}).get(chr(99)+chr(111)+chr(117)+chr(110)+chr(116),0)} 个命理项目：八字、六爻、印占、算命提示词……AI 时代照样给老祖宗打工"),
     ("📚", "README 覆盖率", f"只有 {readme_n}/{N} 个项目写了 README（{readme_pct}%）—— 好项目值得写个说明书"),
     ("🏁", "比赛没停过", "核聚变、AMD、魔搭、全球攻防……从 2025 年一路比到 2026 年，文件夹就是战绩"),
     ("🔥", "最近还热着", f"近 90 天还有 {len(recent)} 个项目在动：{html.escape(recent_sorted[0]['n'])}、{html.escape(recent_sorted[1]['n'])}……没停过"),
@@ -272,7 +272,7 @@ HTML_DOC = f"""<!DOCTYPE html>
       <div class="stat"><b>{N}</b><span>个项目</span></div>
       <div class="stat"><b>{fmt_mb(total_mb)}</b><span>总占用空间</span></div>
       <div class="stat"><b>{total_files:,}</b><span>个文件</span></div>
-      <div class="stat"><b>12</b><span>大主题分类</span></div>
+      <div class="stat"><b>{len(cats)}</b><span>大主题分类</span></div>
     </div>
   </div>
 
@@ -418,7 +418,7 @@ HTML_DOC = f"""<!DOCTYPE html>
 </html>
 """
 
-out_path = r"C:\Users\71976\WorkBuddy\2026-08-11-23-35-59\AI_Projects探险报告.html"
+out_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "index.html")
 with open(out_path, "w", encoding="utf-8") as f:
     f.write(HTML_DOC)
 print("已生成:", out_path)
